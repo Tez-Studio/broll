@@ -8,5 +8,9 @@
       "count": 0
     }
   },
-  "scenes": []
+  "scenes": [
+    "scenes/daylight-portrait.jpg",
+    "scenes/landscape.jpg",
+    "scenes/night-neon.jpg"
+  ]
 }
