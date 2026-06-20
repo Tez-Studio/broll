@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "386241dd-55c9-4165-98a4-2e8e7d80c66d",
+    "title": "Warm Cinematic",
+    "description": "A film-inspired LUT that adds a warm golden cast while deepening the shadows. It provides a rich, contrasted film look that is excellent for enhancing golden hour shoots and stylized lifestyle videos.",
+    "file": "386241dd-55c9-4165-98a4-2e8e7d80c66d.cube",
+    "previews": {
+      "landscape": "386241dd-55c9-4165-98a4-2e8e7d80c66d_landscape.jpg",
+      "daylight-portrait": "386241dd-55c9-4165-98a4-2e8e7d80c66d_daylight-portrait.jpg",
+      "night-neon": "386241dd-55c9-4165-98a4-2e8e7d80c66d_night-neon.jpg"
+    }
+  },
+  {
+    "id": "6607e298-e1ec-440e-b755-349dd54d58bd",
+    "title": "Vibrant Warm Enhancer",
+    "description": "This LUT provides a subtle boost to overall saturation and warmth, enhancing natural tones beautifully. It yields a clean, bright, and vibrant look while maintaining realistic colors, perfect for general lifestyle and outdoor scenes.",
+    "file": "6607e298-e1ec-440e-b755-349dd54d58bd.cube",
+    "previews": {
+      "landscape": "6607e298-e1ec-440e-b755-349dd54d58bd_landscape.jpg",
+      "daylight-portrait": "6607e298-e1ec-440e-b755-349dd54d58bd_daylight-portrait.jpg",
+      "night-neon": "6607e298-e1ec-440e-b755-349dd54d58bd_night-neon.jpg"
+    }
+  },
+  {
+    "id": "2e6df907-af1e-43d5-9e23-551b8ed83738",
+    "title": "Cool Moody Cinematic",
+    "description": "A cinematic LUT characterized by a stylized, desaturated palette, cool blue-teal hues, and balanced contrast. It pulls back green tones to create a more stylized, autumn-like color palette. Recommended for moody thriller sequences, urban night photography, and winter landscapes.",
+    "file": "2e6df907-af1e-43d5-9e23-551b8ed83738.cube",
+    "previews": {
+      "landscape": "2e6df907-af1e-43d5-9e23-551b8ed83738_landscape.jpg",
+      "daylight-portrait": "2e6df907-af1e-43d5-9e23-551b8ed83738_daylight-portrait.jpg",
+      "night-neon": "2e6df907-af1e-43d5-9e23-551b8ed83738_night-neon.jpg"
+    }
+  },
+  {
+    "id": "25c2579f-e609-4667-ba5e-9bebdd3c0c52",
+    "title": "Intense Golden Warmth",
+    "description": "A highly stylized LUT that pushes the image towards intense orange and warm tones while crushing the shadows for a deep, bold look. Ideal for creating dramatic, sun-drenched scenes and vibrant outdoor portraits.",
+    "file": "25c2579f-e609-4667-ba5e-9bebdd3c0c52.cube",
+    "previews": {
+      "landscape": "25c2579f-e609-4667-ba5e-9bebdd3c0c52_landscape.jpg",
+      "daylight-portrait": "25c2579f-e609-4667-ba5e-9bebdd3c0c52_daylight-portrait.jpg",
+      "night-neon": "25c2579f-e609-4667-ba5e-9bebdd3c0c52_night-neon.jpg"
+    }
+  },
+  {
+    "id": "1d2a0af5-8a48-43cc-9a68-932515e36f94",
+    "title": "Soft Film Glow",
+    "description": "A bright, high-contrast LUT that pushes the highlights to create a soft, glowing, overexposed film aesthetic. Best used for bright daytime scenes where a dreamy, soft-focus cinematic feel is desired.",
+    "file": "1d2a0af5-8a48-43cc-9a68-932515e36f94.cube",
+    "previews": {
+      "landscape": "1d2a0af5-8a48-43cc-9a68-932515e36f94_landscape.jpg",
+      "daylight-portrait": "1d2a0af5-8a48-43cc-9a68-932515e36f94_daylight-portrait.jpg",
+      "night-neon": "1d2a0af5-8a48-43cc-9a68-932515e36f94_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a6121846-bd81-4c58-a1b1-9e95c67e47e6",
+    "title": "Faded Olive Vintage",
+    "description": "A deeply nostalgic LUT characterized by a strong olive-green tint, heavily lifted shadows, and a soft matte texture. It provides a distinctly washed-out, vintage film look ideal for editorial fashion and retro flashbacks.",
+    "file": "a6121846-bd81-4c58-a1b1-9e95c67e47e6.cube",
+    "previews": {
+      "landscape": "a6121846-bd81-4c58-a1b1-9e95c67e47e6_landscape.jpg",
+      "daylight-portrait": "a6121846-bd81-4c58-a1b1-9e95c67e47e6_daylight-portrait.jpg",
+      "night-neon": "a6121846-bd81-4c58-a1b1-9e95c67e47e6_night-neon.jpg"
+    }
+  },
+  {
+    "id": "62093ed8-6ca4-464c-9843-7fab03171a99",
+    "title": "Neutral Balance",
+    "description": "A corrective LUT designed to neutralize overly warm tones and slightly desaturate the image. It yields a clean, balanced, and naturally muted look, perfect for documentary styles and restoring natural white balance.",
+    "file": "62093ed8-6ca4-464c-9843-7fab03171a99.cube",
+    "previews": {
+      "landscape": "62093ed8-6ca4-464c-9843-7fab03171a99_landscape.jpg",
+      "daylight-portrait": "62093ed8-6ca4-464c-9843-7fab03171a99_daylight-portrait.jpg",
+      "night-neon": "62093ed8-6ca4-464c-9843-7fab03171a99_night-neon.jpg"
+    }
+  },
+  {
+    "id": "423bcb21-f058-439c-a838-8eb8f70e3513",
+    "title": "Vibrant Beauty",
+    "description": "A vibrant LUT that enhances skin tones with a rich golden warmth while intensifying overall colors and contrast. Excellent for creating punchy, beautiful outdoor scenes and warm commercial portraits.",
+    "file": "423bcb21-f058-439c-a838-8eb8f70e3513.cube",
+    "previews": {
+      "landscape": "423bcb21-f058-439c-a838-8eb8f70e3513_landscape.jpg",
+      "daylight-portrait": "423bcb21-f058-439c-a838-8eb8f70e3513_daylight-portrait.jpg",
+      "night-neon": "423bcb21-f058-439c-a838-8eb8f70e3513_night-neon.jpg"
+    }
+  },
+  {
+    "id": "c8e5c68b-48ed-4a6d-8449-a44a31e3e330",
+    "title": "Cool Faded Film",
+    "description": "A stylized cinematic LUT that introduces cool blue-teal hues into the environment while subtly shifting skin tones towards magenta. Features slightly lifted shadows for a soft, modern filmic look.",
+    "file": "c8e5c68b-48ed-4a6d-8449-a44a31e3e330.cube",
+    "previews": {
+      "landscape": "c8e5c68b-48ed-4a6d-8449-a44a31e3e330_landscape.jpg",
+      "daylight-portrait": "c8e5c68b-48ed-4a6d-8449-a44a31e3e330_daylight-portrait.jpg",
+      "night-neon": "c8e5c68b-48ed-4a6d-8449-a44a31e3e330_night-neon.jpg"
+    }
+  },
+  {
+    "id": "1f632a64-83ea-47a2-ae6a-b605b2cfc626",
+    "title": "Warm Urban Night",
+    "description": "A cinematic LUT that pushes rich, warm orange tones into the highlights and midtones while maintaining cool, deep shadows. Provides excellent color separation, highly recommended for moody night photography and urban scenes.",
+    "file": "1f632a64-83ea-47a2-ae6a-b605b2cfc626.cube",
+    "previews": {
+      "landscape": "1f632a64-83ea-47a2-ae6a-b605b2cfc626_landscape.jpg",
+      "daylight-portrait": "1f632a64-83ea-47a2-ae6a-b605b2cfc626_daylight-portrait.jpg",
+      "night-neon": "1f632a64-83ea-47a2-ae6a-b605b2cfc626_night-neon.jpg"
+    }
+  },
+  {
+    "id": "4921b812-c2ec-490c-b6a9-9ca7d9edb533",
+    "title": "Vibrant Film Warmth",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and balanced contrast. Recommended for golden hour shoots, warm outdoor portraits, and lifestyle videos.",
+    "file": "4921b812-c2ec-490c-b6a9-9ca7d9edb533.cube",
+    "previews": {
+      "landscape": "4921b812-c2ec-490c-b6a9-9ca7d9edb533_landscape.jpg",
+      "daylight-portrait": "4921b812-c2ec-490c-b6a9-9ca7d9edb533_daylight-portrait.jpg",
+      "night-neon": "4921b812-c2ec-490c-b6a9-9ca7d9edb533_night-neon.jpg"
+    }
+  },
+  {
+    "id": "72bfec91-7199-4bb2-8649-c8065a1979cf",
+    "title": "Soft Vintage Fade",
+    "description": "A vintage-inspired LUT that lifts the shadows and slightly desaturates colors, creating a soft, faded cinematic look perfect for nostalgic storytelling and filmic atmospheres.",
+    "file": "72bfec91-7199-4bb2-8649-c8065a1979cf.cube",
+    "previews": {
+      "landscape": "72bfec91-7199-4bb2-8649-c8065a1979cf_landscape.jpg",
+      "daylight-portrait": "72bfec91-7199-4bb2-8649-c8065a1979cf_daylight-portrait.jpg",
+      "night-neon": "72bfec91-7199-4bb2-8649-c8065a1979cf_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a2e17396-8632-4954-ad14-ee44db947d7a",
+    "title": "Cinematic",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and balanced contrast. Recommended for golden hour shoots, warm outdoor portraits, and lifestyle videos.",
+    "file": "a2e17396-8632-4954-ad14-ee44db947d7a.cube",
+    "previews": {
+      "landscape": "a2e17396-8632-4954-ad14-ee44db947d7a_landscape.jpg",
+      "daylight-portrait": "a2e17396-8632-4954-ad14-ee44db947d7a_daylight-portrait.jpg",
+      "night-neon": "a2e17396-8632-4954-ad14-ee44db947d7a_night-neon.jpg"
+    }
+  },
+  {
+    "id": "4537e43f-4dcb-45f8-ab28-6c889639dac1",
+    "title": "Muted Film",
+    "description": "A muted cinematic LUT that softens contrast and slightly desaturates colors, providing a flatter, more understated look suitable for subtle narratives and vintage themes.",
+    "file": "4537e43f-4dcb-45f8-ab28-6c889639dac1.cube",
+    "previews": {
+      "landscape": "4537e43f-4dcb-45f8-ab28-6c889639dac1_landscape.jpg",
+      "daylight-portrait": "4537e43f-4dcb-45f8-ab28-6c889639dac1_daylight-portrait.jpg",
+      "night-neon": "4537e43f-4dcb-45f8-ab28-6c889639dac1_night-neon.jpg"
+    }
+  },
+  {
+    "id": "42b3aaa1-d919-4d3e-8ad2-5fc308ce86c4",
+    "title": "Intense Film Contrast",
+    "description": "A bold film emulation LUT that pushes contrast and warmth, delivering deep shadows and vibrant highlights. Excellent for creating a punchy, dramatic cinematic look with rich, saturated tones.",
+    "file": "42b3aaa1-d919-4d3e-8ad2-5fc308ce86c4.cube",
+    "previews": {
+      "landscape": "42b3aaa1-d919-4d3e-8ad2-5fc308ce86c4_landscape.jpg",
+      "daylight-portrait": "42b3aaa1-d919-4d3e-8ad2-5fc308ce86c4_daylight-portrait.jpg",
+      "night-neon": "42b3aaa1-d919-4d3e-8ad2-5fc308ce86c4_night-neon.jpg"
+    }
+  },
+  {
+    "id": "1093da0f-811f-413b-af1f-54f038b0dd5d",
+    "title": "Cine Warm Wedding",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and balanced contrast. Recommended for golden hour shoots, warm outdoor portraits, and lifestyle videos.",
+    "file": "1093da0f-811f-413b-af1f-54f038b0dd5d.cube",
+    "previews": {
+      "landscape": "1093da0f-811f-413b-af1f-54f038b0dd5d_landscape.jpg",
+      "daylight-portrait": "1093da0f-811f-413b-af1f-54f038b0dd5d_daylight-portrait.jpg",
+      "night-neon": "1093da0f-811f-413b-af1f-54f038b0dd5d_night-neon.jpg"
+    }
+  },
+  {
+    "id": "baf2d5a5-afb9-4799-a697-5dacccc0aad7",
+    "title": "Natural Enhancer",
+    "description": "A subtle utility LUT that enhances natural colors and balances exposure without heavily altering the original contrast or tones. Great for achieving a clean, true-to-life look in general scenes.",
+    "file": "baf2d5a5-afb9-4799-a697-5dacccc0aad7.cube",
+    "previews": {
+      "landscape": "baf2d5a5-afb9-4799-a697-5dacccc0aad7_landscape.jpg",
+      "daylight-portrait": "baf2d5a5-afb9-4799-a697-5dacccc0aad7_daylight-portrait.jpg",
+      "night-neon": "baf2d5a5-afb9-4799-a697-5dacccc0aad7_night-neon.jpg"
+    }
+  },
+  {
+    "id": "7f5278fc-bd68-414a-ab9c-1b7daf07ddff",
+    "title": "Clean Natural Balance",
+    "description": "A cinematic LUT characterized by natural colors, a neutral color balance, and balanced contrast. Recommended for general cinematic grading, lifestyle shoots, and creative storytelling.",
+    "file": "7f5278fc-bd68-414a-ab9c-1b7daf07ddff.cube",
+    "previews": {
+      "landscape": "7f5278fc-bd68-414a-ab9c-1b7daf07ddff_landscape.jpg",
+      "daylight-portrait": "7f5278fc-bd68-414a-ab9c-1b7daf07ddff_daylight-portrait.jpg",
+      "night-neon": "7f5278fc-bd68-414a-ab9c-1b7daf07ddff_night-neon.jpg"
+    }
+  },
+  {
+    "id": "08155b73-e90a-4b87-af4d-5ef5d48e5a86",
+    "title": "Bleak Cool Fade",
+    "description": "A deeply moody cinematic LUT that introduces a heavy, cool blue tint across the entire image. Features faded highlights and low contrast, creating a bleak, atmospheric look ideal for winter scenes or somber storytelling.",
+    "file": "08155b73-e90a-4b87-af4d-5ef5d48e5a86.cube",
+    "previews": {}
+  },
+  {
+    "id": "50dfb544-5554-4b50-a6fe-2e95bf04c512",
+    "title": "Technical Correction",
+    "description": "A strong technical correction LUT that dramatically shifts color space and exposure. It produces extreme or solarized effects if applied to standard Rec.709 footage, originally designed for specific log conversions.",
+    "file": "50dfb544-5554-4b50-a6fe-2e95bf04c512.cube",
+    "previews": {
+      "landscape": "50dfb544-5554-4b50-a6fe-2e95bf04c512_landscape.jpg",
+      "daylight-portrait": "50dfb544-5554-4b50-a6fe-2e95bf04c512_daylight-portrait.jpg",
+      "night-neon": "50dfb544-5554-4b50-a6fe-2e95bf04c512_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a47134f4-b2e6-436e-bdc3-a161fd879f1d",
+    "title": "Soft Valentine Magenta",
+    "description": "A highly stylized, vibrant LUT characterized by a strong magenta and pink color shift. It creates a warm, romantic, and somewhat pastel aesthetic perfect for lifestyle shoots and dreamlike storytelling.",
+    "file": "a47134f4-b2e6-436e-bdc3-a161fd879f1d.cube",
+    "previews": {
+      "landscape": "a47134f4-b2e6-436e-bdc3-a161fd879f1d_landscape.jpg",
+      "daylight-portrait": "a47134f4-b2e6-436e-bdc3-a161fd879f1d_daylight-portrait.jpg",
+      "night-neon": "a47134f4-b2e6-436e-bdc3-a161fd879f1d_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a3bc4f3e-5728-40c0-bcce-0598b02331d1",
+    "title": "Punchy Warm Contrast",
+    "description": "A bold, high-contrast LUT that delivers rich, warm golden skin tones and deep shadows. It provides a highly saturated, punchy look ideal for dramatic storytelling and vivid scenes.",
+    "file": "a3bc4f3e-5728-40c0-bcce-0598b02331d1.cube",
+    "previews": {
+      "landscape": "a3bc4f3e-5728-40c0-bcce-0598b02331d1_landscape.jpg",
+      "daylight-portrait": "a3bc4f3e-5728-40c0-bcce-0598b02331d1_daylight-portrait.jpg",
+      "night-neon": "a3bc4f3e-5728-40c0-bcce-0598b02331d1_night-neon.jpg"
+    }
+  },
+  {
+    "id": "f85ae58e-3d8c-496f-888d-54ce8b652066",
+    "title": "Cool Breeze",
+    "description": "A crisp LUT that shifts the color balance towards cooler blue-teal hues, providing a clean, slightly frosty aesthetic without dramatically lowering overall exposure.",
+    "file": "f85ae58e-3d8c-496f-888d-54ce8b652066.cube",
+    "previews": {
+      "landscape": "f85ae58e-3d8c-496f-888d-54ce8b652066_landscape.jpg",
+      "daylight-portrait": "f85ae58e-3d8c-496f-888d-54ce8b652066_daylight-portrait.jpg",
+      "night-neon": "f85ae58e-3d8c-496f-888d-54ce8b652066_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a1f20de7-07df-4539-821c-cc252242d3fe",
+    "title": "Deep Vibrant Contrast",
+    "description": "A highly stylized LUT that pushes contrast heavily and shifts greens and midtones towards warm, vibrant yellow-green hues. Perfect for bold, stylized looks with deep, rich shadows.",
+    "file": "a1f20de7-07df-4539-821c-cc252242d3fe.cube",
+    "previews": {
+      "landscape": "a1f20de7-07df-4539-821c-cc252242d3fe_landscape.jpg",
+      "daylight-portrait": "a1f20de7-07df-4539-821c-cc252242d3fe_daylight-portrait.jpg",
+      "night-neon": "a1f20de7-07df-4539-821c-cc252242d3fe_night-neon.jpg"
+    }
+  },
+  {
+    "id": "d3a14ab5-922d-4422-9e56-0d2bee7c6e47",
+    "title": "Gritty Warmth",
+    "description": "A stylized LUT that casts a warm, slightly yellow-brown tint over the image while softening the contrast. It creates a gritty, atmospheric look suitable for urban and nostalgic settings.",
+    "file": "d3a14ab5-922d-4422-9e56-0d2bee7c6e47.cube",
+    "previews": {
+      "landscape": "d3a14ab5-922d-4422-9e56-0d2bee7c6e47_landscape.jpg",
+      "daylight-portrait": "d3a14ab5-922d-4422-9e56-0d2bee7c6e47_daylight-portrait.jpg",
+      "night-neon": "d3a14ab5-922d-4422-9e56-0d2bee7c6e47_night-neon.jpg"
+    }
+  },
+  {
+    "id": "7a6bf75f-1b5a-4e18-a33a-4e4e24d2eacb",
+    "title": "Real Estate Bright",
+    "description": "A bright, vibrant LUT that enhances saturation and warmth while maintaining clean highlights. Ideal for showcasing properties, vivid lifestyle shots, and clear sunny landscapes.",
+    "file": "7a6bf75f-1b5a-4e18-a33a-4e4e24d2eacb.cube",
+    "previews": {
+      "landscape": "7a6bf75f-1b5a-4e18-a33a-4e4e24d2eacb_landscape.jpg",
+      "daylight-portrait": "7a6bf75f-1b5a-4e18-a33a-4e4e24d2eacb_daylight-portrait.jpg",
+      "night-neon": "7a6bf75f-1b5a-4e18-a33a-4e4e24d2eacb_night-neon.jpg"
+    }
+  },
+  {
+    "id": "0ab4915b-ba35-4327-af24-2036308e8d93",
+    "title": "Faded Vintage Warmth",
+    "description": "A vintage film emulation that significantly lifts the shadows and pushes warm, golden-yellow tones. It creates a nostalgic, faded look with a distinct retro color palette.",
+    "file": "0ab4915b-ba35-4327-af24-2036308e8d93.cube",
+    "previews": {
+      "landscape": "0ab4915b-ba35-4327-af24-2036308e8d93_landscape.jpg",
+      "daylight-portrait": "0ab4915b-ba35-4327-af24-2036308e8d93_daylight-portrait.jpg",
+      "night-neon": "0ab4915b-ba35-4327-af24-2036308e8d93_night-neon.jpg"
+    }
+  },
+  {
+    "id": "10d70206-4288-46f1-a0f3-c2173e3f5fd2",
+    "title": "Vibrant Era",
+    "description": "An intensely vibrant LUT that dramatically pushes saturation and warmth. It delivers bright highlights and rich, golden undertones, perfect for highly stylized, sun-drenched scenes.",
+    "file": "10d70206-4288-46f1-a0f3-c2173e3f5fd2.cube",
+    "previews": {
+      "landscape": "10d70206-4288-46f1-a0f3-c2173e3f5fd2_landscape.jpg",
+      "daylight-portrait": "10d70206-4288-46f1-a0f3-c2173e3f5fd2_daylight-portrait.jpg",
+      "night-neon": "10d70206-4288-46f1-a0f3-c2173e3f5fd2_night-neon.jpg"
+    }
+  },
+  {
+    "id": "99e4f352-8a53-43e8-ad37-8232c2859e06",
+    "title": "Vibrant Fruitful",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and high contrast with punchy shadows. Recommended for golden hour shoots, warm outdoor portraits, and vibrant commercial work.",
+    "file": "99e4f352-8a53-43e8-ad37-8232c2859e06.cube",
+    "previews": {
+      "landscape": "99e4f352-8a53-43e8-ad37-8232c2859e06_landscape.jpg",
+      "daylight-portrait": "99e4f352-8a53-43e8-ad37-8232c2859e06_daylight-portrait.jpg",
+      "night-neon": "99e4f352-8a53-43e8-ad37-8232c2859e06_night-neon.jpg"
+    }
+  },
+  {
+    "id": "59e30f1b-7e1a-453f-928f-4439724e3013",
+    "title": "Extreme Vibrant HDR",
+    "description": "A highly stylized, extreme HDR LUT that dramatically pushes saturation, contrast, and warmth. It creates intense, over-the-top vibrant looks suitable for specific surreal or highly processed visual styles.",
+    "file": "59e30f1b-7e1a-453f-928f-4439724e3013.cube",
+    "previews": {
+      "landscape": "59e30f1b-7e1a-453f-928f-4439724e3013_landscape.jpg",
+      "daylight-portrait": "59e30f1b-7e1a-453f-928f-4439724e3013_daylight-portrait.jpg",
+      "night-neon": "59e30f1b-7e1a-453f-928f-4439724e3013_night-neon.jpg"
+    }
+  },
+  {
+    "id": "8cf4785f-c1a5-41ee-b3cf-59a7ca0a6e23",
+    "title": "Extreme Punchy Cinematic",
+    "description": "A highly vibrant, high-contrast LUT that heavily crushes shadows and aggressively pushes saturation. Delivers a bold, stylized cinematic look with intense color separation, ideal for commercial work and sports videography.",
+    "file": "8cf4785f-c1a5-41ee-b3cf-59a7ca0a6e23.cube",
+    "previews": {
+      "landscape": "8cf4785f-c1a5-41ee-b3cf-59a7ca0a6e23_landscape.jpg",
+      "daylight-portrait": "8cf4785f-c1a5-41ee-b3cf-59a7ca0a6e23_daylight-portrait.jpg",
+      "night-neon": "8cf4785f-c1a5-41ee-b3cf-59a7ca0a6e23_night-neon.jpg"
+    }
+  },
+  {
+    "id": "b1d36c9d-1ec9-43df-86dd-66fb3884b544",
+    "title": "Vibrant Golden Warmth",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and balanced contrast. Recommended for golden hour shoots, warm outdoor portraits, and lifestyle videos.",
+    "file": "b1d36c9d-1ec9-43df-86dd-66fb3884b544.cube",
+    "previews": {
+      "landscape": "b1d36c9d-1ec9-43df-86dd-66fb3884b544_landscape.jpg",
+      "daylight-portrait": "b1d36c9d-1ec9-43df-86dd-66fb3884b544_daylight-portrait.jpg",
+      "night-neon": "b1d36c9d-1ec9-43df-86dd-66fb3884b544_night-neon.jpg"
+    }
+  },
+  {
+    "id": "57360081-9de5-4e49-a416-e7c392a32aa0",
+    "title": "Faded Golden Wash",
+    "description": "A vintage-inspired LUT that casts a heavy, vibrant golden-yellow wash over the entire image while lifting the shadows for a faded retro look. Creates an intensely warm, nostalgic summer aesthetic.",
+    "file": "57360081-9de5-4e49-a416-e7c392a32aa0.cube",
+    "previews": {
+      "landscape": "57360081-9de5-4e49-a416-e7c392a32aa0_landscape.jpg",
+      "daylight-portrait": "57360081-9de5-4e49-a416-e7c392a32aa0_daylight-portrait.jpg",
+      "night-neon": "57360081-9de5-4e49-a416-e7c392a32aa0_night-neon.jpg"
+    }
+  },
+  {
+    "id": "f0de1c36-d600-429f-bc16-b1b3168ef2b8",
+    "title": "Vibrant Greens",
+    "description": "An intense, high-contrast LUT that heavily boosts green tones and pushes overall saturation and warmth. Perfect for lush landscapes and vibrant, sun-lit outdoor scenes where nature needs to pop.",
+    "file": "f0de1c36-d600-429f-bc16-b1b3168ef2b8.cube",
+    "previews": {
+      "landscape": "f0de1c36-d600-429f-bc16-b1b3168ef2b8_landscape.jpg",
+      "daylight-portrait": "f0de1c36-d600-429f-bc16-b1b3168ef2b8_daylight-portrait.jpg",
+      "night-neon": "f0de1c36-d600-429f-bc16-b1b3168ef2b8_night-neon.jpg"
+    }
+  },
+  {
+    "id": "87f243e8-b50c-4f4c-8a88-b9a3d951f6a1",
+    "title": "Gritty Cyan Contrast",
+    "description": "A dramatic, high-contrast LUT that heavily crushes shadows and introduces a strong cyan and green color shift. Provides a gritty, stylized aesthetic perfectly suited for thrillers, action sequences, and moody urban scenes.",
+    "file": "87f243e8-b50c-4f4c-8a88-b9a3d951f6a1.cube",
+    "previews": {
+      "landscape": "87f243e8-b50c-4f4c-8a88-b9a3d951f6a1_landscape.jpg",
+      "daylight-portrait": "87f243e8-b50c-4f4c-8a88-b9a3d951f6a1_daylight-portrait.jpg",
+      "night-neon": "87f243e8-b50c-4f4c-8a88-b9a3d951f6a1_night-neon.jpg"
+    }
+  },
+  {
+    "id": "2a23a94f-d459-45df-8d03-fa69373d20f3",
+    "title": "Rich Nature Enhancer",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and high contrast and punchy shadows. Recommended for golden hour shoots, warm outdoor portraits, and lifestyle videos, commercial work, sports videography, and punchy outdoor scenes.",
+    "file": "2a23a94f-d459-45df-8d03-fa69373d20f3.cube",
+    "previews": {
+      "landscape": "2a23a94f-d459-45df-8d03-fa69373d20f3_landscape.jpg",
+      "daylight-portrait": "2a23a94f-d459-45df-8d03-fa69373d20f3_daylight-portrait.jpg",
+      "night-neon": "2a23a94f-d459-45df-8d03-fa69373d20f3_night-neon.jpg"
+    }
+  },
+  {
+    "id": "5fe44ea1-1f14-4cb8-9159-c07fb4bc9f33",
+    "title": "Warm Gentle Fade",
+    "description": "A gentle, uplifting LUT that slightly lifts the shadows and introduces a soft, warm tint. It creates a pleasant, mildly vintage aesthetic ideal for positive lifestyle and nostalgic storytelling.",
+    "file": "5fe44ea1-1f14-4cb8-9159-c07fb4bc9f33.cube",
+    "previews": {
+      "landscape": "5fe44ea1-1f14-4cb8-9159-c07fb4bc9f33_landscape.jpg",
+      "daylight-portrait": "5fe44ea1-1f14-4cb8-9159-c07fb4bc9f33_daylight-portrait.jpg",
+      "night-neon": "5fe44ea1-1f14-4cb8-9159-c07fb4bc9f33_night-neon.jpg"
+    }
+  },
+  {
+    "id": "eb22e103-dbcc-4aa2-9a7a-18908dc54fd5",
+    "title": "Stylized Emerald Warmth",
+    "description": "A highly stylized cross-processing LUT that pushes shadows towards deep emerald and teal hues while keeping highlights warm and vibrant. Great for distinct, modern cinematic aesthetics.",
+    "file": "eb22e103-dbcc-4aa2-9a7a-18908dc54fd5.cube",
+    "previews": {
+      "landscape": "eb22e103-dbcc-4aa2-9a7a-18908dc54fd5_landscape.jpg",
+      "daylight-portrait": "eb22e103-dbcc-4aa2-9a7a-18908dc54fd5_daylight-portrait.jpg",
+      "night-neon": "eb22e103-dbcc-4aa2-9a7a-18908dc54fd5_night-neon.jpg"
+    }
+  },
+  {
+    "id": "628508a8-8cf1-4741-a7cd-1e7b95137b56",
+    "title": "Intense Warm Punch",
+    "description": "A highly aggressive LUT that dramatically crushes shadows and pushes warmth and saturation to extreme levels. Ideal for creating bold, dramatic, and stylized high-contrast visuals.",
+    "file": "628508a8-8cf1-4741-a7cd-1e7b95137b56.cube",
+    "previews": {
+      "landscape": "628508a8-8cf1-4741-a7cd-1e7b95137b56_landscape.jpg",
+      "daylight-portrait": "628508a8-8cf1-4741-a7cd-1e7b95137b56_daylight-portrait.jpg",
+      "night-neon": "628508a8-8cf1-4741-a7cd-1e7b95137b56_night-neon.jpg"
+    }
+  },
+  {
+    "id": "47a3f86e-3c2f-457c-8695-2ec8c774a00b",
+    "title": "Cool Cinematic",
+    "description": "A stylized LUT characterized by a distinct cool green-teal shift, slightly muted colors, and balanced contrast. Recommended for moody thriller sequences, urban night photography, and distinct cinematic tones.",
+    "file": "47a3f86e-3c2f-457c-8695-2ec8c774a00b.cube",
+    "previews": {
+      "landscape": "47a3f86e-3c2f-457c-8695-2ec8c774a00b_landscape.jpg",
+      "daylight-portrait": "47a3f86e-3c2f-457c-8695-2ec8c774a00b_daylight-portrait.jpg",
+      "night-neon": "47a3f86e-3c2f-457c-8695-2ec8c774a00b_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a051c36a-94a2-42d4-b5aa-668cf7297528",
+    "title": "Dramatic Monochrome",
+    "description": "A bold monochrome LUT that delivers a timeless black and white color profile with high contrast and deep shadows. Recommended for striking portrait photography, dramatic street scenes, and moody narratives.",
+    "file": "a051c36a-94a2-42d4-b5aa-668cf7297528.cube",
+    "previews": {
+      "landscape": "a051c36a-94a2-42d4-b5aa-668cf7297528_landscape.jpg",
+      "daylight-portrait": "a051c36a-94a2-42d4-b5aa-668cf7297528_daylight-portrait.jpg",
+      "night-neon": "a051c36a-94a2-42d4-b5aa-668cf7297528_night-neon.jpg"
+    }
+  },
+  {
+    "id": "34fcbf45-6a0b-44f4-952a-62e172ba9c60",
+    "title": "Moody Cinematic",
+    "description": "A cinematic LUT that emulates classic film print characteristics, featuring a warm golden push and slightly lifted, faded shadows. It creates a nostalgic, rich aesthetic perfect for timeless storytelling.",
+    "file": "34fcbf45-6a0b-44f4-952a-62e172ba9c60.cube",
+    "previews": {
+      "landscape": "34fcbf45-6a0b-44f4-952a-62e172ba9c60_landscape.jpg",
+      "daylight-portrait": "34fcbf45-6a0b-44f4-952a-62e172ba9c60_daylight-portrait.jpg",
+      "night-neon": "34fcbf45-6a0b-44f4-952a-62e172ba9c60_night-neon.jpg"
+    }
+  },
+  {
+    "id": "37e95f15-4d7f-4388-b0c1-e69faedbb6f0",
+    "title": "Vibrant Film Log",
+    "description": "A bold film emulation LUT that pushes contrast and warmth, delivering deep shadows and highly saturated, rich colors. Excellent for creating a punchy, dramatic cinematic look.",
+    "file": "37e95f15-4d7f-4388-b0c1-e69faedbb6f0.cube",
+    "previews": {
+      "landscape": "37e95f15-4d7f-4388-b0c1-e69faedbb6f0_landscape.jpg",
+      "daylight-portrait": "37e95f15-4d7f-4388-b0c1-e69faedbb6f0_daylight-portrait.jpg",
+      "night-neon": "37e95f15-4d7f-4388-b0c1-e69faedbb6f0_night-neon.jpg"
+    }
+  },
+  {
+    "id": "31766330-448a-4156-bb83-aec93bb146d2",
+    "title": "Vibrant Golden Forest",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich warm golden undertones, and balanced contrast. It specifically enhances greens and foliage, making it highly recommended for lush nature landscapes and golden hour photography.",
+    "file": "31766330-448a-4156-bb83-aec93bb146d2.cube",
+    "previews": {
+      "landscape": "31766330-448a-4156-bb83-aec93bb146d2_landscape.jpg",
+      "daylight-portrait": "31766330-448a-4156-bb83-aec93bb146d2_daylight-portrait.jpg",
+      "night-neon": "31766330-448a-4156-bb83-aec93bb146d2_night-neon.jpg"
+    }
+  },
+  {
+    "id": "3714f921-07b6-48c4-8f0a-26c5acae539b",
+    "title": "Faded Vintage Film",
+    "description": "A heavily stylized LUT that significantly lifts shadows and reduces contrast, creating a distinctively washed out, vintage film look. Ideal for nostalgic flashbacks and retro aesthetics.",
+    "file": "3714f921-07b6-48c4-8f0a-26c5acae539b.cube",
+    "previews": {
+      "landscape": "3714f921-07b6-48c4-8f0a-26c5acae539b_landscape.jpg",
+      "daylight-portrait": "3714f921-07b6-48c4-8f0a-26c5acae539b_daylight-portrait.jpg",
+      "night-neon": "3714f921-07b6-48c4-8f0a-26c5acae539b_night-neon.jpg"
+    }
+  },
+  {
+    "id": "7333e41f-7ea9-46da-8eaf-e787e26ecdd6",
+    "title": "Intense Warm Boost",
+    "description": "An intensely vibrant LUT that dramatically pushes exposure, warmth, and saturation. It creates a highly stylized, almost surreal bright look with strong golden and orange tones.",
+    "file": "7333e41f-7ea9-46da-8eaf-e787e26ecdd6.cube",
+    "previews": {
+      "landscape": "7333e41f-7ea9-46da-8eaf-e787e26ecdd6_landscape.jpg",
+      "daylight-portrait": "7333e41f-7ea9-46da-8eaf-e787e26ecdd6_daylight-portrait.jpg",
+      "night-neon": "7333e41f-7ea9-46da-8eaf-e787e26ecdd6_night-neon.jpg"
+    }
+  },
+  {
+    "id": "cf860460-b24c-4b00-b17b-a89f015b6d91",
+    "title": "Heavy Blockbuster Orange",
+    "description": "An aggressive cinematic LUT that delivers a classic, heavy teal and orange blockbuster look. It heavily saturates warm golden skin tones and pushes deep cyans into the shadows, creating maximum color contrast.",
+    "file": "cf860460-b24c-4b00-b17b-a89f015b6d91.cube",
+    "previews": {
+      "landscape": "cf860460-b24c-4b00-b17b-a89f015b6d91_landscape.jpg",
+      "daylight-portrait": "cf860460-b24c-4b00-b17b-a89f015b6d91_daylight-portrait.jpg",
+      "night-neon": "cf860460-b24c-4b00-b17b-a89f015b6d91_night-neon.jpg"
+    }
+  },
+  {
+    "id": "8f0d3376-87bb-416c-a553-0b5a398834da",
+    "title": "Desert Wasteland Warmth",
+    "description": "An intensely stylized LUT that applies a heavy, vibrant orange-golden wash over the entire image. Combined with high contrast and deep shadows, it creates a harsh, sun-baked desert or apocalyptic cinematic look.",
+    "file": "8f0d3376-87bb-416c-a553-0b5a398834da.cube",
+    "previews": {
+      "landscape": "8f0d3376-87bb-416c-a553-0b5a398834da_landscape.jpg",
+      "daylight-portrait": "8f0d3376-87bb-416c-a553-0b5a398834da_daylight-portrait.jpg",
+      "night-neon": "8f0d3376-87bb-416c-a553-0b5a398834da_night-neon.jpg"
+    }
+  },
+  {
+    "id": "e1c2d341-be7a-4eda-bc33-c9f5413c685d",
+    "title": "Golden Cinematic Wedding",
+    "description": "A highly vibrant, warm cinematic LUT that heavily pushes golden yellow undertones into the highlights and midtones. It creates a rich, sun-drenched aesthetic perfect for golden hour shoots and romantic lifestyle or wedding videos.",
+    "file": "e1c2d341-be7a-4eda-bc33-c9f5413c685d.cube",
+    "previews": {
+      "landscape": "e1c2d341-be7a-4eda-bc33-c9f5413c685d_landscape.jpg",
+      "daylight-portrait": "e1c2d341-be7a-4eda-bc33-c9f5413c685d_daylight-portrait.jpg",
+      "night-neon": "e1c2d341-be7a-4eda-bc33-c9f5413c685d_night-neon.jpg"
+    }
+  },
+  {
+    "id": "b4a54e39-e576-47bc-8872-4c8f6f7ddcda",
+    "title": "Cinematic Cool Magenta",
+    "description": "A cinematic LUT that introduces subtle cool and magenta tints into the shadows while slightly softening overall contrast. Great for achieving a distinct, moody filmic look.",
+    "file": "b4a54e39-e576-47bc-8872-4c8f6f7ddcda.cube",
+    "previews": {
+      "landscape": "b4a54e39-e576-47bc-8872-4c8f6f7ddcda_landscape.jpg",
+      "daylight-portrait": "b4a54e39-e576-47bc-8872-4c8f6f7ddcda_daylight-portrait.jpg",
+      "night-neon": "b4a54e39-e576-47bc-8872-4c8f6f7ddcda_night-neon.jpg"
+    }
+  },
+  {
+    "id": "d9e74e9d-e3bf-479e-a722-c69003ab7284",
+    "title": "Posterized Artistic",
+    "description": "An extreme, highly stylized LUT that introduces strong posterization and edge artifacts, resembling an illustrated or painted effect. Suited for experimental, surreal, or graphic art styles.",
+    "file": "d9e74e9d-e3bf-479e-a722-c69003ab7284.cube",
+    "previews": {
+      "landscape": "d9e74e9d-e3bf-479e-a722-c69003ab7284_landscape.jpg",
+      "daylight-portrait": "d9e74e9d-e3bf-479e-a722-c69003ab7284_daylight-portrait.jpg",
+      "night-neon": "d9e74e9d-e3bf-479e-a722-c69003ab7284_night-neon.jpg"
+    }
+  },
+  {
+    "id": "da7ce7bc-1a14-40a9-a10a-be88eb159fee",
+    "title": "Cool Night Cinematic",
+    "description": "A moody cinematic LUT characterized by a cool overall color balance, deep teal skies, and noticeably desaturated greens. It provides a stylized, somewhat bleak aesthetic ideal for night photography and urban thriller sequences.",
+    "file": "da7ce7bc-1a14-40a9-a10a-be88eb159fee.cube",
+    "previews": {
+      "landscape": "da7ce7bc-1a14-40a9-a10a-be88eb159fee_landscape.jpg",
+      "daylight-portrait": "da7ce7bc-1a14-40a9-a10a-be88eb159fee_daylight-portrait.jpg",
+      "night-neon": "da7ce7bc-1a14-40a9-a10a-be88eb159fee_night-neon.jpg"
+    }
+  },
+  {
+    "id": "1684aa7c-2596-4343-b481-d24a089d40da",
+    "title": "Moody Cinematic",
+    "description": "A cinematic LUT characterized by a stylized, desaturated palette, crushed shadows, and a neutral color balance. Recommended for moody cinematic grading, lifestyle shoots, and dark storytelling.",
+    "file": "1684aa7c-2596-4343-b481-d24a089d40da.cube",
+    "previews": {
+      "landscape": "1684aa7c-2596-4343-b481-d24a089d40da_landscape.jpg",
+      "daylight-portrait": "1684aa7c-2596-4343-b481-d24a089d40da_daylight-portrait.jpg",
+      "night-neon": "1684aa7c-2596-4343-b481-d24a089d40da_night-neon.jpg"
+    }
+  },
+  {
+    "id": "96d8d92e-3a78-4957-ac1e-6ac0a762d581",
+    "title": "Classic Warm Glow",
+    "description": "A gentle cinematic LUT that introduces a rich, warm golden-orange glow across the entire image. It maintains balanced contrast while providing a classic, nostalgic warmth perfect for lifestyle and sunlit scenes.",
+    "file": "96d8d92e-3a78-4957-ac1e-6ac0a762d581.cube",
+    "previews": {
+      "landscape": "96d8d92e-3a78-4957-ac1e-6ac0a762d581_landscape.jpg",
+      "daylight-portrait": "96d8d92e-3a78-4957-ac1e-6ac0a762d581_daylight-portrait.jpg",
+      "night-neon": "96d8d92e-3a78-4957-ac1e-6ac0a762d581_night-neon.jpg"
+    }
+  },
+  {
+    "id": "71c90edd-d0d9-455b-a37b-700d58d5c963",
+    "title": "Intense Orange Teal",
+    "description": "A bold, blockbuster-style LUT that pushes an aggressive orange and teal color palette with high contrast and deep, vibrant shadows. Excellent for highly stylized cinematic storytelling.",
+    "file": "71c90edd-d0d9-455b-a37b-700d58d5c963.cube",
+    "previews": {
+      "landscape": "71c90edd-d0d9-455b-a37b-700d58d5c963_landscape.jpg",
+      "daylight-portrait": "71c90edd-d0d9-455b-a37b-700d58d5c963_daylight-portrait.jpg",
+      "night-neon": "71c90edd-d0d9-455b-a37b-700d58d5c963_night-neon.jpg"
+    }
+  },
+  {
+    "id": "baf1e2a0-bee4-4fa1-b910-7642a64e848d",
+    "title": "Punchy Monochrome",
+    "description": "A striking monochrome LUT that delivers a timeless black and white color profile with high contrast and punchy shadows. Recommended for dramatic portrait photography and classic street scenes.",
+    "file": "baf1e2a0-bee4-4fa1-b910-7642a64e848d.cube",
+    "previews": {
+      "landscape": "baf1e2a0-bee4-4fa1-b910-7642a64e848d_landscape.jpg",
+      "daylight-portrait": "baf1e2a0-bee4-4fa1-b910-7642a64e848d_daylight-portrait.jpg",
+      "night-neon": "baf1e2a0-bee4-4fa1-b910-7642a64e848d_night-neon.jpg"
+    }
+  },
+  {
+    "id": "65516fe1-fc69-419a-893f-192438a187db",
+    "title": "Magenta Dawn",
+    "description": "A vibrant cinematic LUT characterized by a strong magenta and pink color shift, especially in the midtones, paired with punchy contrast. Perfect for highly stylized, modern cinematic looks.",
+    "file": "65516fe1-fc69-419a-893f-192438a187db.cube",
+    "previews": {
+      "landscape": "65516fe1-fc69-419a-893f-192438a187db_landscape.jpg",
+      "daylight-portrait": "65516fe1-fc69-419a-893f-192438a187db_daylight-portrait.jpg",
+      "night-neon": "65516fe1-fc69-419a-893f-192438a187db_night-neon.jpg"
+    }
+  },
+  {
+    "id": "af3e49ef-6d9c-4518-a59d-5744a6edb55a",
+    "title": "High Contrast Warm Film",
+    "description": "A bold cinematic LUT that combines heavily crushed, deep shadows with rich, warm golden undertones. It creates a highly stylized, high-contrast filmic look ideal for dramatic outdoor scenes and punchy lifestyle videos.",
+    "file": "af3e49ef-6d9c-4518-a59d-5744a6edb55a.cube",
+    "previews": {
+      "landscape": "af3e49ef-6d9c-4518-a59d-5744a6edb55a_landscape.jpg",
+      "daylight-portrait": "af3e49ef-6d9c-4518-a59d-5744a6edb55a_daylight-portrait.jpg",
+      "night-neon": "af3e49ef-6d9c-4518-a59d-5744a6edb55a_night-neon.jpg"
+    }
+  },
+  {
+    "id": "d899cde2-b368-45a9-a9da-e1d463090de3",
+    "title": "Washed Out Rain",
+    "description": "A deeply atmospheric LUT that introduces a heavy cool-cyan tint while significantly lifting shadows and reducing contrast. It creates a washed-out, moody aesthetic perfectly suited for rainy days and somber storytelling.",
+    "file": "d899cde2-b368-45a9-a9da-e1d463090de3.cube",
+    "previews": {
+      "landscape": "d899cde2-b368-45a9-a9da-e1d463090de3_landscape.jpg",
+      "daylight-portrait": "d899cde2-b368-45a9-a9da-e1d463090de3_daylight-portrait.jpg",
+      "night-neon": "d899cde2-b368-45a9-a9da-e1d463090de3_night-neon.jpg"
+    }
+  },
+  {
+    "id": "9d88d644-5de9-4caa-b9b7-a8d86eb92066",
+    "title": "Warm Gentle Cinema",
+    "description": "A pleasing cinematic LUT that introduces rich, warm golden undertones and slightly lifts the shadows for a gently faded look. Ideal for natural, warm outdoor portraits and storytelling.",
+    "file": "9d88d644-5de9-4caa-b9b7-a8d86eb92066.cube",
+    "previews": {
+      "landscape": "9d88d644-5de9-4caa-b9b7-a8d86eb92066_landscape.jpg",
+      "daylight-portrait": "9d88d644-5de9-4caa-b9b7-a8d86eb92066_daylight-portrait.jpg",
+      "night-neon": "9d88d644-5de9-4caa-b9b7-a8d86eb92066_night-neon.jpg"
+    }
+  },
+  {
+    "id": "b93fefde-cb3c-42d9-a246-881c53c32951",
+    "title": "Desaturated Red Warmth",
+    "description": "A stylized cinematic LUT featuring a significantly desaturated color palette combined with soft, faded shadows. It selectively introduces a warm, reddish-golden tint to the midtones, creating a unique, moody retro aesthetic.",
+    "file": "b93fefde-cb3c-42d9-a246-881c53c32951.cube",
+    "previews": {
+      "landscape": "b93fefde-cb3c-42d9-a246-881c53c32951_landscape.jpg",
+      "daylight-portrait": "b93fefde-cb3c-42d9-a246-881c53c32951_daylight-portrait.jpg",
+      "night-neon": "b93fefde-cb3c-42d9-a246-881c53c32951_night-neon.jpg"
+    }
+  },
+  {
+    "id": "f1260af1-7a98-45bb-af25-9effe86928ae",
+    "title": "Deep Warm Dream",
+    "description": "An intensely stylized LUT that delivers deep, crushed shadows and extremely warm, rich golden-red undertones. Suitable for dramatic sunset scenes and bold, atmospheric storytelling.",
+    "file": "f1260af1-7a98-45bb-af25-9effe86928ae.cube",
+    "previews": {
+      "landscape": "f1260af1-7a98-45bb-af25-9effe86928ae_landscape.jpg",
+      "daylight-portrait": "f1260af1-7a98-45bb-af25-9effe86928ae_daylight-portrait.jpg",
+      "night-neon": "f1260af1-7a98-45bb-af25-9effe86928ae_night-neon.jpg"
+    }
+  },
+  {
+    "id": "4e37f46f-7d4b-4328-8061-d85bf308c8f5",
+    "title": "Vintage Cross Process",
+    "description": "A retro-inspired LUT that lifts and fades the shadows with a distinct cyan-blue shift, while maintaining warm highlights. Creates a nostalgic, cross-processed film aesthetic.",
+    "file": "4e37f46f-7d4b-4328-8061-d85bf308c8f5.cube",
+    "previews": {
+      "landscape": "4e37f46f-7d4b-4328-8061-d85bf308c8f5_landscape.jpg",
+      "daylight-portrait": "4e37f46f-7d4b-4328-8061-d85bf308c8f5_daylight-portrait.jpg",
+      "night-neon": "4e37f46f-7d4b-4328-8061-d85bf308c8f5_night-neon.jpg"
+    }
+  },
+  {
+    "id": "53934c5a-07c1-4e28-b0bb-8d36e9925d96",
+    "title": "Clean Natural Cinema",
+    "description": "A clean, utility-focused cinematic LUT that provides a neutral color balance and balanced contrast. It delivers true-to-life colors, making it an excellent starting point for general grading.",
+    "file": "53934c5a-07c1-4e28-b0bb-8d36e9925d96.cube",
+    "previews": {
+      "landscape": "53934c5a-07c1-4e28-b0bb-8d36e9925d96_landscape.jpg",
+      "daylight-portrait": "53934c5a-07c1-4e28-b0bb-8d36e9925d96_daylight-portrait.jpg",
+      "night-neon": "53934c5a-07c1-4e28-b0bb-8d36e9925d96_night-neon.jpg"
+    }
+  },
+  {
+    "id": "e7835538-c0b1-42cf-9f42-55092a5cdf1c",
+    "title": "Vibrant Royal Warmth",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and balanced contrast. Recommended for golden hour shoots, warm outdoor portraits, and lifestyle videos.",
+    "file": "e7835538-c0b1-42cf-9f42-55092a5cdf1c.cube",
+    "previews": {
+      "landscape": "e7835538-c0b1-42cf-9f42-55092a5cdf1c_landscape.jpg",
+      "daylight-portrait": "e7835538-c0b1-42cf-9f42-55092a5cdf1c_daylight-portrait.jpg",
+      "night-neon": "e7835538-c0b1-42cf-9f42-55092a5cdf1c_night-neon.jpg"
+    }
+  },
+  {
+    "id": "f56b8d18-5e15-4d13-8681-e51f420d4323",
+    "title": "Vibrant Rec709 Punch",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and high contrast and punchy shadows. Recommended for golden hour shoots, warm outdoor portraits, and lifestyle videos, commercial work, sports videography, and punchy outdoor scenes.",
+    "file": "f56b8d18-5e15-4d13-8681-e51f420d4323.cube",
+    "previews": {
+      "landscape": "f56b8d18-5e15-4d13-8681-e51f420d4323_landscape.jpg",
+      "daylight-portrait": "f56b8d18-5e15-4d13-8681-e51f420d4323_daylight-portrait.jpg",
+      "night-neon": "f56b8d18-5e15-4d13-8681-e51f420d4323_night-neon.jpg"
+    }
+  },
+  {
+    "id": "dec9211d-3f94-497e-9a4e-c5c9278170aa",
+    "title": "Sunny Golden Warmth",
+    "description": "A vibrant, sun-drenched LUT that casts a strong, warm golden-orange tint over the image while maintaining solid contrast. It instantly transforms neutral scenes into bright, nostalgic summer days.",
+    "file": "dec9211d-3f94-497e-9a4e-c5c9278170aa.cube",
+    "previews": {
+      "landscape": "dec9211d-3f94-497e-9a4e-c5c9278170aa_landscape.jpg",
+      "daylight-portrait": "dec9211d-3f94-497e-9a4e-c5c9278170aa_daylight-portrait.jpg",
+      "night-neon": "dec9211d-3f94-497e-9a4e-c5c9278170aa_night-neon.jpg"
+    }
+  },
+  {
+    "id": "fb779af8-43e9-4177-93a0-9e61ee259a84",
+    "title": "Travel Vlogger Teal & Orange",
+    "description": "A classic travel-style cinematic LUT characterized by rich, warm golden skin tones and vibrant cyan-teal skies. Perfect for lifestyle videos, epic travel montages, and bright outdoor adventures.",
+    "file": "fb779af8-43e9-4177-93a0-9e61ee259a84.cube",
+    "previews": {
+      "landscape": "fb779af8-43e9-4177-93a0-9e61ee259a84_landscape.jpg",
+      "daylight-portrait": "fb779af8-43e9-4177-93a0-9e61ee259a84_daylight-portrait.jpg",
+      "night-neon": "fb779af8-43e9-4177-93a0-9e61ee259a84_night-neon.jpg"
+    }
+  },
+  {
+    "id": "ff1ea0ad-7be6-470a-94cd-d1cdc7800284",
+    "title": "Vibrant Magenta Pastel",
+    "description": "A highly stylized LUT that introduces a strong magenta and pink color shift with slightly softened contrast. It creates a vibrant, pastel-like aesthetic ideal for modern, creative, and fashion-forward scenes.",
+    "file": "ff1ea0ad-7be6-470a-94cd-d1cdc7800284.cube",
+    "previews": {
+      "landscape": "ff1ea0ad-7be6-470a-94cd-d1cdc7800284_landscape.jpg",
+      "daylight-portrait": "ff1ea0ad-7be6-470a-94cd-d1cdc7800284_daylight-portrait.jpg",
+      "night-neon": "ff1ea0ad-7be6-470a-94cd-d1cdc7800284_night-neon.jpg"
+    }
+  },
+  {
+    "id": "2122cc95-9997-432a-a5f3-f242739844ec",
+    "title": "Warm Yellow-Green Cinema",
+    "description": "A stylized cinematic LUT that casts a distinct warm yellow-green tint over the image while maintaining vibrant highlights. Creates a moody, slightly unsettling or exotic atmosphere suitable for thrillers.",
+    "file": "2122cc95-9997-432a-a5f3-f242739844ec.cube",
+    "previews": {
+      "landscape": "2122cc95-9997-432a-a5f3-f242739844ec_landscape.jpg",
+      "daylight-portrait": "2122cc95-9997-432a-a5f3-f242739844ec_daylight-portrait.jpg",
+      "night-neon": "2122cc95-9997-432a-a5f3-f242739844ec_night-neon.jpg"
+    }
+  },
+  {
+    "id": "aece263c-aa3c-4e37-8378-b26b2e7bf584",
+    "title": "Natural Cinema Clean",
+    "description": "A clean, utility-focused cinematic LUT characterized by natural colors, a neutral color balance, and balanced contrast. Highly recommended for general cinematic grading, lifestyle shoots, and creative storytelling.",
+    "file": "aece263c-aa3c-4e37-8378-b26b2e7bf584.cube",
+    "previews": {
+      "landscape": "aece263c-aa3c-4e37-8378-b26b2e7bf584_landscape.jpg",
+      "daylight-portrait": "aece263c-aa3c-4e37-8378-b26b2e7bf584_daylight-portrait.jpg",
+      "night-neon": "aece263c-aa3c-4e37-8378-b26b2e7bf584_night-neon.jpg"
+    }
+  },
+  {
+    "id": "8ab6358a-ab42-4c72-a9f8-5fc7900b28fa",
+    "title": "Extreme Warm Blockbuster",
+    "description": "An extremely vibrant LUT that delivers a heavy teal and orange blockbuster look. It dramatically pushes warm skin tones and saturates blues and greens, creating an intense, stylized cinematic aesthetic.",
+    "file": "8ab6358a-ab42-4c72-a9f8-5fc7900b28fa.cube",
+    "previews": {
+      "landscape": "8ab6358a-ab42-4c72-a9f8-5fc7900b28fa_landscape.jpg",
+      "daylight-portrait": "8ab6358a-ab42-4c72-a9f8-5fc7900b28fa_daylight-portrait.jpg",
+      "night-neon": "8ab6358a-ab42-4c72-a9f8-5fc7900b28fa_night-neon.jpg"
+    }
+  },
+  {
+    "id": "64dd66ec-f508-4336-be0f-b712920bb4ae",
+    "title": "Soft Nostalgia",
+    "description": "A gentle LUT characterized by significantly lifted shadows, low contrast, and a soft, washed-out color palette. Perfect for nostalgic storytelling, vintage aesthetics, and delicate portraiture.",
+    "file": "64dd66ec-f508-4336-be0f-b712920bb4ae.cube",
+    "previews": {
+      "landscape": "64dd66ec-f508-4336-be0f-b712920bb4ae_landscape.jpg",
+      "daylight-portrait": "64dd66ec-f508-4336-be0f-b712920bb4ae_daylight-portrait.jpg",
+      "night-neon": "64dd66ec-f508-4336-be0f-b712920bb4ae_night-neon.jpg"
+    }
+  },
+  {
+    "id": "ca38b358-504b-4fd6-b682-d141627d2a3f",
+    "title": "Clean Vibrant Teal",
+    "description": "A vibrant, high-contrast LUT that delivers rich, warm golden undertones and striking teal skies. It provides a clean but punchy, stylized look perfect for modern commercial and lifestyle videos.",
+    "file": "ca38b358-504b-4fd6-b682-d141627d2a3f.cube",
+    "previews": {
+      "landscape": "ca38b358-504b-4fd6-b682-d141627d2a3f_landscape.jpg",
+      "daylight-portrait": "ca38b358-504b-4fd6-b682-d141627d2a3f_daylight-portrait.jpg",
+      "night-neon": "ca38b358-504b-4fd6-b682-d141627d2a3f_night-neon.jpg"
+    }
+  },
+  {
+    "id": "7fd2d97d-3b13-4424-b8e3-0515cbd06545",
+    "title": "Extreme Contrast Warmth",
+    "description": "A highly aggressive LUT that heavily crushes shadows and blows out highlights while pushing intense warm, golden hues. Creates a bold, deeply stylized look that departs significantly from natural color.",
+    "file": "7fd2d97d-3b13-4424-b8e3-0515cbd06545.cube",
+    "previews": {
+      "landscape": "7fd2d97d-3b13-4424-b8e3-0515cbd06545_landscape.jpg",
+      "daylight-portrait": "7fd2d97d-3b13-4424-b8e3-0515cbd06545_daylight-portrait.jpg",
+      "night-neon": "7fd2d97d-3b13-4424-b8e3-0515cbd06545_night-neon.jpg"
+    }
+  },
+  {
+    "id": "b1458929-8f5c-4247-90ef-679386e5f643",
+    "title": "Vibrant Warmth & Greens",
+    "description": "A cinematic LUT characterized by highly vibrant, saturated colors, rich, warm golden undertones, and balanced contrast. It specifically enhances greens and foliage, making outdoor environments appear more lush and organic. Recommended for golden hour shoots, warm outdoor portraits, and lifestyle videos, nature landscapes, forest photography, and travel vlogs.",
+    "file": "b1458929-8f5c-4247-90ef-679386e5f643.cube",
+    "previews": {
+      "landscape": "b1458929-8f5c-4247-90ef-679386e5f643_landscape.jpg",
+      "daylight-portrait": "b1458929-8f5c-4247-90ef-679386e5f643_daylight-portrait.jpg",
+      "night-neon": "b1458929-8f5c-4247-90ef-679386e5f643_night-neon.jpg"
+    }
+  },
+  {
+    "id": "9abe5586-0130-4593-a987-8c184faf036a",
+    "title": "Vibrant Nature HDR",
+    "description": "A highly aggressive utility LUT that maximizes color saturation and contrast, delivering an almost hyper-real HDR effect. It specifically targets and enhances lush greens and vibrant yellows, making it ideal for striking nature and wildlife videography.",
+    "file": "9abe5586-0130-4593-a987-8c184faf036a.cube",
+    "previews": {
+      "landscape": "9abe5586-0130-4593-a987-8c184faf036a_landscape.jpg",
+      "daylight-portrait": "9abe5586-0130-4593-a987-8c184faf036a_daylight-portrait.jpg",
+      "night-neon": "9abe5586-0130-4593-a987-8c184faf036a_night-neon.jpg"
+    }
+  },
+  {
+    "id": "7057ac39-d4d6-4aad-9bc5-ecdc8747be32",
+    "title": "Golden Sunlight Love",
+    "description": "A warm cinematic LUT that introduces rich golden undertones and slightly lifts the shadows. It provides a natural-feeling but vibrant warmth, highly recommended for romantic golden hour shoots and sun-drenched outdoor portraits.",
+    "file": "7057ac39-d4d6-4aad-9bc5-ecdc8747be32.cube",
+    "previews": {
+      "landscape": "7057ac39-d4d6-4aad-9bc5-ecdc8747be32_landscape.jpg",
+      "daylight-portrait": "7057ac39-d4d6-4aad-9bc5-ecdc8747be32_daylight-portrait.jpg",
+      "night-neon": "7057ac39-d4d6-4aad-9bc5-ecdc8747be32_night-neon.jpg"
+    }
+  },
+  {
+    "id": "80781819-917e-47c2-8070-70a910f2a0cb",
+    "title": "Heavy Teal & Orange",
+    "description": "A classic blockbuster Teal and Orange LUT that aggressively pushes cool, teal tones into the shadows and midtones while isolating and warming the highlights. Delivers a highly stylized, high-contrast cinematic look.",
+    "file": "80781819-917e-47c2-8070-70a910f2a0cb.cube",
+    "previews": {
+      "landscape": "80781819-917e-47c2-8070-70a910f2a0cb_landscape.jpg",
+      "daylight-portrait": "80781819-917e-47c2-8070-70a910f2a0cb_daylight-portrait.jpg",
+      "night-neon": "80781819-917e-47c2-8070-70a910f2a0cb_night-neon.jpg"
+    }
+  },
+  {
+    "id": "6502ef2b-aa45-4da5-bf32-d4f52f8c088e",
+    "title": "Moody Cyans & Greens",
+    "description": "A dramatic LUT that emphasizes cyan and green tones while heavily crushing the shadows for a moody, high-contrast look. Excellent for dark forest scenes, thriller aesthetics, and gritty storytelling.",
+    "file": "6502ef2b-aa45-4da5-bf32-d4f52f8c088e.cube",
+    "previews": {
+      "landscape": "6502ef2b-aa45-4da5-bf32-d4f52f8c088e_landscape.jpg",
+      "daylight-portrait": "6502ef2b-aa45-4da5-bf32-d4f52f8c088e_daylight-portrait.jpg",
+      "night-neon": "6502ef2b-aa45-4da5-bf32-d4f52f8c088e_night-neon.jpg"
+    }
+  },
+  {
+    "id": "895a5bdb-a869-4171-84a1-668f064090da",
+    "title": "Gritty Warm Thriller",
+    "description": "An aggressive, high-contrast LUT that heavily crushes shadows and introduces a deep, pervasive warm-orange tint. Delivers a gritty, intense aesthetic ideal for high-octane action sequences, thrillers, and dramatic storytelling.",
+    "file": "895a5bdb-a869-4171-84a1-668f064090da.cube",
+    "previews": {
+      "landscape": "895a5bdb-a869-4171-84a1-668f064090da_landscape.jpg",
+      "daylight-portrait": "895a5bdb-a869-4171-84a1-668f064090da_daylight-portrait.jpg",
+      "night-neon": "895a5bdb-a869-4171-84a1-668f064090da_night-neon.jpg"
+    }
+  },
+  {
+    "id": "b44ce2f7-38b2-40de-b69c-665751e7b65a",
+    "title": "Neutral Base Gamma",
+    "description": "A clean, neutral utility LUT that provides standard Rec.709 gamma correction with balanced contrast and true-to-life color reproduction. An excellent base for further grading.",
+    "file": "b44ce2f7-38b2-40de-b69c-665751e7b65a.cube",
+    "previews": {
+      "landscape": "b44ce2f7-38b2-40de-b69c-665751e7b65a_landscape.jpg",
+      "daylight-portrait": "b44ce2f7-38b2-40de-b69c-665751e7b65a_daylight-portrait.jpg",
+      "night-neon": "b44ce2f7-38b2-40de-b69c-665751e7b65a_night-neon.jpg"
+    }
+  },
+  {
+    "id": "b21796d2-2c9f-44a8-8c81-7d9408b56374",
+    "title": "Faded Golden Sunset",
+    "description": "A warm, vintage-inspired LUT that casts a strong golden-orange tint over the entire image while lifting the shadows for a faded, low-contrast look. Perfect for nostalgic sunset and summer aesthetics.",
+    "file": "b21796d2-2c9f-44a8-8c81-7d9408b56374.cube",
+    "previews": {
+      "landscape": "b21796d2-2c9f-44a8-8c81-7d9408b56374_landscape.jpg",
+      "daylight-portrait": "b21796d2-2c9f-44a8-8c81-7d9408b56374_daylight-portrait.jpg",
+      "night-neon": "b21796d2-2c9f-44a8-8c81-7d9408b56374_night-neon.jpg"
+    }
+  },
+  {
+    "id": "eaaed835-ea4a-4296-91ce-116c244d1174",
+    "title": "Extreme Golden HDR",
+    "description": "An extremely aggressive, highly saturated LUT that maximizes contrast and pushes warm golden tones to their limits. It creates an intense, almost hyper-real HDR effect with striking cyan skies and deep, punchy shadows.",
+    "file": "eaaed835-ea4a-4296-91ce-116c244d1174.cube",
+    "previews": {
+      "landscape": "eaaed835-ea4a-4296-91ce-116c244d1174_landscape.jpg",
+      "daylight-portrait": "eaaed835-ea4a-4296-91ce-116c244d1174_daylight-portrait.jpg",
+      "night-neon": "eaaed835-ea4a-4296-91ce-116c244d1174_night-neon.jpg"
+    }
+  },
+  {
+    "id": "94a00c34-2ce5-47c0-acb2-0e4f440cb465",
+    "title": "Aggressive Vintage Burn",
+    "description": "An intensely stylized vintage LUT that applies a heavy, warm golden wash and aggressive edge darkening (burn). It heavily reduces contrast, creating a highly specific retro or aged film aesthetic.",
+    "file": "94a00c34-2ce5-47c0-acb2-0e4f440cb465.cube",
+    "previews": {
+      "landscape": "94a00c34-2ce5-47c0-acb2-0e4f440cb465_landscape.jpg",
+      "daylight-portrait": "94a00c34-2ce5-47c0-acb2-0e4f440cb465_daylight-portrait.jpg",
+      "night-neon": "94a00c34-2ce5-47c0-acb2-0e4f440cb465_night-neon.jpg"
+    }
+  },
+  {
+    "id": "e60dc6ff-d7f3-45da-811f-e17dde3475c8",
+    "title": "Vibrant Warm Golden",
+    "description": "A highly vibrant cinematic LUT that delivers intensely saturated colors and a strong, warm golden-orange push. Maintains balanced contrast while creating a very stylized, sun-baked look perfect for lifestyle and summer videos.",
+    "file": "e60dc6ff-d7f3-45da-811f-e17dde3475c8.cube",
+    "previews": {
+      "landscape": "e60dc6ff-d7f3-45da-811f-e17dde3475c8_landscape.jpg",
+      "daylight-portrait": "e60dc6ff-d7f3-45da-811f-e17dde3475c8_daylight-portrait.jpg",
+      "night-neon": "e60dc6ff-d7f3-45da-811f-e17dde3475c8_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a5044392-d812-41e7-a1ab-060e0a03a365",
+    "title": "Punchy Warm Magenta",
+    "description": "A high-contrast cinematic LUT characterized by highly vibrant colors, deep punchy shadows, and a distinct warm-magenta color shift. Highly recommended for stylized commercial work, bold outdoor scenes, and energetic lifestyle videos.",
+    "file": "a5044392-d812-41e7-a1ab-060e0a03a365.cube",
+    "previews": {
+      "landscape": "a5044392-d812-41e7-a1ab-060e0a03a365_landscape.jpg",
+      "daylight-portrait": "a5044392-d812-41e7-a1ab-060e0a03a365_daylight-portrait.jpg",
+      "night-neon": "a5044392-d812-41e7-a1ab-060e0a03a365_night-neon.jpg"
+    }
+  },
+  {
+    "id": "d58bcb94-f887-48a9-9960-0e66ffa8e80c",
+    "title": "Soft Retro Warmth",
+    "description": "A nostalgic LUT that applies a gentle, warm golden overlay and slightly lifts shadows to reduce overall contrast. Delivers a soft, retro film aesthetic ideal for vintage storytelling and sunlit memories.",
+    "file": "d58bcb94-f887-48a9-9960-0e66ffa8e80c.cube",
+    "previews": {
+      "landscape": "d58bcb94-f887-48a9-9960-0e66ffa8e80c_landscape.jpg",
+      "daylight-portrait": "d58bcb94-f887-48a9-9960-0e66ffa8e80c_daylight-portrait.jpg",
+      "night-neon": "d58bcb94-f887-48a9-9960-0e66ffa8e80c_night-neon.jpg"
+    }
+  },
+  {
+    "id": "f12688a3-3902-4b5e-9ade-3cf40ce13258",
+    "title": "High Contrast Wooden Gold",
+    "description": "A highly stylized, aggressive LUT that delivers extreme contrast and intensely saturated warm golden tones. It heavily crushes shadows and boosts warm highlights, creating a bold, almost hyper-real sun-drenched aesthetic.",
+    "file": "f12688a3-3902-4b5e-9ade-3cf40ce13258.cube",
+    "previews": {
+      "landscape": "f12688a3-3902-4b5e-9ade-3cf40ce13258_landscape.jpg",
+      "daylight-portrait": "f12688a3-3902-4b5e-9ade-3cf40ce13258_daylight-portrait.jpg",
+      "night-neon": "f12688a3-3902-4b5e-9ade-3cf40ce13258_night-neon.jpg"
+    }
+  },
+  {
+    "id": "46dfe850-8708-4114-ad35-e8f87103bfa3",
+    "title": "Deep Cool Thriller",
+    "description": "A high-contrast cinematic LUT that aggressively cools the image with strong blue-teal hues and heavily crushed, deep shadows. Perfect for moody thriller sequences, urban night photography, and gritty dramatic storytelling.",
+    "file": "46dfe850-8708-4114-ad35-e8f87103bfa3.cube",
+    "previews": {
+      "landscape": "46dfe850-8708-4114-ad35-e8f87103bfa3_landscape.jpg",
+      "daylight-portrait": "46dfe850-8708-4114-ad35-e8f87103bfa3_daylight-portrait.jpg",
+      "night-neon": "46dfe850-8708-4114-ad35-e8f87103bfa3_night-neon.jpg"
+    }
+  },
+  {
+    "id": "cdb70617-ede9-4f9f-830c-638e1fc7df91",
+    "title": "Stylized Yellow Wash",
+    "description": "An intensely stylized LUT that casts a heavy yellow-green wash over the entire image while slightly softening contrast. Creates a distinct, moody, or subtly unsettling atmosphere suitable for specific creative narratives.",
+    "file": "cdb70617-ede9-4f9f-830c-638e1fc7df91.cube",
+    "previews": {
+      "landscape": "cdb70617-ede9-4f9f-830c-638e1fc7df91_landscape.jpg",
+      "daylight-portrait": "cdb70617-ede9-4f9f-830c-638e1fc7df91_daylight-portrait.jpg",
+      "night-neon": "cdb70617-ede9-4f9f-830c-638e1fc7df91_night-neon.jpg"
+    }
+  },
+  {
+    "id": "58b50e01-b7b1-42df-a2c5-5ebb2110de55",
+    "title": "Vibrant Punchy 709",
+    "description": "A highly vibrant utility LUT that delivers extreme saturation and deep, high-contrast shadows. It pushes colors aggressively, creating a very punchy, stylized look that departs from a standard neutral balance.",
+    "file": "58b50e01-b7b1-42df-a2c5-5ebb2110de55.cube",
+    "previews": {
+      "landscape": "58b50e01-b7b1-42df-a2c5-5ebb2110de55_landscape.jpg",
+      "daylight-portrait": "58b50e01-b7b1-42df-a2c5-5ebb2110de55_daylight-portrait.jpg",
+      "night-neon": "58b50e01-b7b1-42df-a2c5-5ebb2110de55_night-neon.jpg"
+    }
+  }
+]
