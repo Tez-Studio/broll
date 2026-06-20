@@ -4,7 +4,7 @@
   "updated_at": "2026-06-20T00:00:00Z",
   "types": {
     "lut": {
-      "catalog": "luts/index.json",
+      "catalog": "lut/index.json",
       "count": 0
     }
   },
