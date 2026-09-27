@@ -1,0 +1,5905 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4000-8000-000000000001",
+    "title": "Minimal Lower Third",
+    "description": "Clean two-line name bar with an accent rule. Slides in smoothly from the left.",
+    "file": "lower-third-minimal.tgx",
+    "tags": [
+      "lower-third",
+      "name-bar",
+      "nameplate",
+      "chyron",
+      "minimal",
+      "interview",
+      "podcast"
+    ],
+    "previews": {
+      "landscape": "lower-third-minimal_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 4.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Name",
+        "default": "Jane Doe"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Role",
+        "default": "Senior Director"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Color",
+        "default": "#FF5A36"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "logo",
+        "type": "image",
+        "label": "Logo",
+        "default": ""
+      },
+      {
+        "id": "logo-zoom",
+        "type": "number",
+        "label": "Logo Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "logo-pos-x",
+        "type": "number",
+        "label": "Logo Pos X",
+        "default": 0
+      },
+      {
+        "id": "logo-pos-y",
+        "type": "number",
+        "label": "Logo Pos Y",
+        "default": 0
+      }
+    ],
+    "preview_video": "lower-third-minimal_preview.mp4",
+    "sha256": "2b5ec8481cbf9372c93078ab8b4407db5eb683d2970dbabf80f5c291cce5d093"
+  },
+  {
+    "id": "a1b2c3d4-0006-4000-8000-000000000006",
+    "title": "Executive Card Lower Third",
+    "description": "Dark corporate card with slate background, briefcase badge, and clean border accent.",
+    "file": "lower-third-executive-card.tgx",
+    "tags": [
+      "lower-third",
+      "executive",
+      "corporate",
+      "business",
+      "card",
+      "interview",
+      "slate"
+    ],
+    "previews": {
+      "landscape": "lower-third-executive-card_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Full Name",
+        "default": "Marcus Vance"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Title & Company",
+        "default": "Chief Executive Officer, Vertex Dynamics"
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Card Background",
+        "default": "#0F172A"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Rule",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "corner",
+        "type": "enum",
+        "label": "Corner Position",
+        "default": "bottom-left"
+      }
+    ],
+    "preview_video": "lower-third-executive-card_preview.mp4",
+    "sha256": "0e3989063f81b725a891c0eca8637e452364dc2050e397725ab8da6d48d58d97"
+  },
+  {
+    "id": "a1b2c3d4-0011-4000-8000-000000000011",
+    "title": "Frosted Glass Lower Third",
+    "description": "Translucent glassmorphism pill with white keyline and bottom accent sweep line.",
+    "file": "lower-third-glass-frosted.tgx",
+    "tags": [
+      "lower-third",
+      "glass",
+      "glassmorphism",
+      "modern",
+      "clean",
+      "frosted"
+    ],
+    "previews": {
+      "landscape": "lower-third-glass-frosted_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Name",
+        "default": "Dr. Aris Thorne"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Affiliation",
+        "default": "AI Research Fellow"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Tint",
+        "default": "#10B981"
+      },
+      {
+        "id": "glass_opacity",
+        "type": "number",
+        "label": "Opacity",
+        "default": 0.88
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Background Color",
+        "default": "#0F172A"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "corner",
+        "type": "enum",
+        "label": "Corner Position",
+        "default": "bottom-left"
+      }
+    ],
+    "preview_video": "lower-third-glass-frosted_preview.mp4",
+    "sha256": "5b31e9c27a1bde740ba54acbd9c7bc63ad055299755b0ca58b7755be00717231"
+  },
+  {
+    "id": "a1b2c3d4-0012-4000-8000-000000000012",
+    "title": "Editorial Serif Lower Third",
+    "description": "Classic editorial nameplate with animated rule line and serif italic styling.",
+    "file": "lower-third-serif-journal.tgx",
+    "tags": [
+      "lower-third",
+      "editorial",
+      "serif",
+      "magazine",
+      "journal",
+      "author"
+    ],
+    "previews": {
+      "landscape": "lower-third-serif-journal_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 5.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Author Name",
+        "default": "Elena Rostova"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Publication Role",
+        "default": "Editor-in-Chief, Modern Thought"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Rule Color",
+        "default": "#D97706"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "lower-third-serif-journal_preview.mp4",
+    "sha256": "d8c6dfca3218a6c1b0ade54085ca127c55275a2d8cef3495a557a3d2d515e1f9"
+  },
+  {
+    "id": "a1b2c3d4-0013-4000-8000-000000000013",
+    "title": "Bold Block Brutalist Lower Third",
+    "description": "High-impact brutalist block title with opposing horizontal wipes and high contrast.",
+    "file": "lower-third-bold-block.tgx",
+    "tags": [
+      "lower-third",
+      "bold",
+      "brutalist",
+      "block",
+      "action",
+      "high-impact"
+    ],
+    "previews": {
+      "landscape": "lower-third-bold-block_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 4,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Headline Name",
+        "default": "SARAH CONNER"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Role Tag",
+        "default": "TACTICAL ANALYST"
+      },
+      {
+        "id": "block_bg",
+        "type": "color",
+        "label": "Block Fill",
+        "default": "#FACC15"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Fill",
+        "default": "#000000"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "lower-third-bold-block_preview.mp4",
+    "sha256": "4aab215bd19fef192fbc491ca4d8a880778bbca807f75a6158fd8ca18911c8c2"
+  },
+  {
+    "id": "a1b2c3d4-0014-4000-8000-000000000014",
+    "title": "Underline Accent Lower Third",
+    "description": "Minimalist typography with animated bottom stroke draw and clean layout.",
+    "file": "lower-third-underline-accent.tgx",
+    "tags": [
+      "lower-third",
+      "underline",
+      "minimalist",
+      "clean",
+      "modern",
+      "accent"
+    ],
+    "previews": {
+      "landscape": "lower-third-underline-accent_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 4.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Speaker Name",
+        "default": "David Miller"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Organization",
+        "default": "Green Earth Initiative"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Line Accent",
+        "default": "#06B6D4"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "lower-third-underline-accent_preview.mp4",
+    "sha256": "880d80701b2bdea9cbac51b02e4173d4d02ba8ca914c6a235a2f5699a6b6d23c"
+  },
+  {
+    "id": "a1b2c3d4-0015-4000-8000-000000000015",
+    "title": "Social Handle Pill Lower Third",
+    "description": "Rounded modern capsule with icon badge, social handle, and companion swoosh sound.",
+    "file": "lower-third-social-pill.tgx",
+    "tags": [
+      "social",
+      "handle",
+      "pill",
+      "instagram",
+      "badge",
+      "lower-third",
+      "swoosh"
+    ],
+    "previews": {
+      "landscape": "lower-third-social-pill_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "handle",
+        "type": "string",
+        "label": "Social Handle",
+        "default": "@alex_design"
+      },
+      {
+        "id": "platform",
+        "type": "string",
+        "label": "Platform Tag",
+        "default": "Instagram"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Badge Color",
+        "default": "#EC4899"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "corner",
+        "type": "enum",
+        "label": "Corner Position",
+        "default": "bottom-left"
+      },
+      {
+        "id": "custom-logo",
+        "type": "image",
+        "label": "Custom Logo",
+        "default": ""
+      },
+      {
+        "id": "custom-logo-zoom",
+        "type": "number",
+        "label": "Logo Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "custom-logo-pos-x",
+        "type": "number",
+        "label": "Logo Pos X",
+        "default": 0
+      },
+      {
+        "id": "custom-logo-pos-y",
+        "type": "number",
+        "label": "Logo Pos Y",
+        "default": 0
+      }
+    ],
+    "preview_video": "lower-third-social-pill_preview.mp4",
+    "sha256": "67198a723233a22b263c4cdf8b92b350348d163f663a837c4b97a8dc764d0cae"
+  },
+  {
+    "id": "a1b2c3d4-0016-4000-8000-000000000016",
+    "title": "Cyber Gamer Streamer Corner",
+    "description": "Neon gaming tag with live pulse badge, gamepad icon, and companion swoosh audio.",
+    "file": "lower-third-streamer-corner.tgx",
+    "tags": [
+      "streamer",
+      "gaming",
+      "twitch",
+      "live",
+      "neon",
+      "cyber",
+      "swoosh"
+    ],
+    "previews": {
+      "landscape": "lower-third-streamer-corner_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "handle",
+        "type": "string",
+        "label": "Gamer Tag",
+        "default": "VALKYRIE_PRO"
+      },
+      {
+        "id": "status",
+        "type": "string",
+        "label": "Status Text",
+        "default": "LIVE NOW"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Neon Color",
+        "default": "#8B5CF6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "corner",
+        "type": "enum",
+        "label": "Corner Position",
+        "default": "bottom-left"
+      }
+    ],
+    "preview_video": "lower-third-streamer-corner_preview.mp4",
+    "sha256": "4223f87f8b3f10c91c1b8cbce3af52c1642518905c77c7be2e469d1bd7eb4353"
+  },
+  {
+    "id": "a1b2c3d4-0017-4000-8000-000000000017",
+    "title": "Avatar Badge Lower Third",
+    "description": "Circular initials or photo avatar with elastic bounce and expanding nameplate.",
+    "file": "lower-third-avatar-badge.tgx",
+    "tags": [
+      "lower-third",
+      "avatar",
+      "badge",
+      "creator",
+      "social",
+      "initials"
+    ],
+    "previews": {
+      "landscape": "lower-third-avatar-badge_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 4.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "initials",
+        "type": "string",
+        "label": "Avatar Initials",
+        "default": "JD"
+      },
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Full Name",
+        "default": "John Doe"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Handle",
+        "default": "@johndoe_official"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Avatar Background",
+        "default": "#6366F1"
+      },
+      {
+        "id": "avatar",
+        "type": "image",
+        "label": "Avatar Image",
+        "default": ""
+      },
+      {
+        "id": "avatar-zoom",
+        "type": "number",
+        "label": "Avatar Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "avatar-pos-x",
+        "type": "number",
+        "label": "Avatar Pos X",
+        "default": 0
+      },
+      {
+        "id": "avatar-pos-y",
+        "type": "number",
+        "label": "Avatar Pos Y",
+        "default": 0
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "lower-third-avatar-badge_preview.mp4",
+    "sha256": "fb4eb76da63d55cd0b0a91bc178ad3677f8fa1bde2c2fa66e7f34a77ce16dcd6"
+  },
+  {
+    "id": "a1b2c3d4-0018-4000-8000-000000000018",
+    "title": "Verified Creator Name Lower Third",
+    "description": "Verified creator nameplate with checkmark badge pop and clean horizontal reveal.",
+    "file": "lower-third-verified-name.tgx",
+    "tags": [
+      "verified",
+      "creator",
+      "badge",
+      "youtube",
+      "checkmark",
+      "lower-third"
+    ],
+    "previews": {
+      "landscape": "lower-third-verified-name_poster.jpg"
+    },
+    "category": "lower-thirds",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "name",
+        "type": "string",
+        "label": "Creator Name",
+        "default": "Tech Lead Pro"
+      },
+      {
+        "id": "handle",
+        "type": "string",
+        "label": "Channel Handle",
+        "default": "@techlead"
+      },
+      {
+        "id": "badge_color",
+        "type": "color",
+        "label": "Verified Check Color",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "lower-third-verified-name_preview.mp4",
+    "sha256": "659cd4ecf7359fdb432d48924d824c1f9a0ea8226d7c53c3514e8995061a349c"
+  },
+  {
+    "id": "a1b2c3d4-0007-4000-8000-000000000007",
+    "title": "Split Headline Chapter",
+    "description": "High-impact split-line chapter card title with chapter number and subtitle.",
+    "file": "split-headline-chapter.tgx",
+    "tags": [
+      "chapter",
+      "title",
+      "headline",
+      "split",
+      "header",
+      "presentation"
+    ],
+    "previews": {
+      "landscape": "split-headline-chapter_poster.jpg"
+    },
+    "category": "titles",
+    "duration_s": 7,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "chapter_num",
+        "type": "string",
+        "label": "Chapter #",
+        "default": "01"
+      },
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Main Title",
+        "default": "THE ARCHITECTURE OF MOTION"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Subtitle",
+        "default": "Deep dive into real-time rendering pipelines"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Border Accent",
+        "default": "#F59E0B"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "split-headline-chapter_preview.mp4",
+    "sha256": "76cd08dde89b03cdbed12e5d8d5169544987ccaca2a3dff1f6632173a1f95a9b"
+  },
+  {
+    "id": "a1b2c3d4-0019-4000-8000-000000000019",
+    "title": "Minimal Centered Header",
+    "description": "Centered elegance title with smooth opacity ramp and dynamic letter-spacing tracking expansion.",
+    "file": "title-minimal-header.tgx",
+    "tags": [
+      "title",
+      "minimal",
+      "header",
+      "cinematic",
+      "centered",
+      "tracking"
+    ],
+    "previews": {
+      "landscape": "title-minimal-header_poster.jpg"
+    },
+    "category": "titles",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Main Title",
+        "default": "MINIMALISM"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Subtitle Tag",
+        "default": "LESS IS MORE"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Typography Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "title-minimal-header_preview.mp4",
+    "sha256": "9e81fc4285663bdbd7cc2b4dbfd1619cbb085c240b9a5e59e40ceab48cb2f682"
+  },
+  {
+    "id": "a1b2c3d4-0020-4000-8000-000000000020",
+    "title": "Kinetic Stack Typography Title",
+    "description": "Dynamic kinetic stacked typography with staggered mask reveals and accent highlight word.",
+    "file": "title-kinetic-stack.tgx",
+    "tags": [
+      "title",
+      "kinetic",
+      "stack",
+      "bold",
+      "typography",
+      "dynamic",
+      "stagger"
+    ],
+    "previews": {
+      "landscape": "title-kinetic-stack_poster.jpg"
+    },
+    "category": "titles",
+    "duration_s": 5.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "line1",
+        "type": "string",
+        "label": "Line 1",
+        "default": "BUILD"
+      },
+      {
+        "id": "line2",
+        "type": "string",
+        "label": "Line 2",
+        "default": "FASTER"
+      },
+      {
+        "id": "line3",
+        "type": "string",
+        "label": "Line 3",
+        "default": "TOGETHER"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Highlight Word Color",
+        "default": "#EF4444"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "title-kinetic-stack_preview.mp4",
+    "sha256": "8d861e63e5912831908a4384712387699d975d871ce5bb12b6ada6e8f914ef46"
+  },
+  {
+    "id": "a1b2c3d4-0002-4000-8000-000000000002",
+    "title": "Glass Quote Statement Card",
+    "description": "Frosted glass floating quote card with quotation mark badge and author photo line.",
+    "file": "quote-card-glass.tgx",
+    "tags": [
+      "quote",
+      "title",
+      "glassmorphism",
+      "headline",
+      "card",
+      "interview",
+      "statement"
+    ],
+    "previews": {
+      "landscape": "quote-card-glass_poster.jpg"
+    },
+    "category": "titles",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "quote",
+        "type": "string",
+        "label": "Quote Text",
+        "default": "Design is not just what it looks like and feels like. Design is how it works."
+      },
+      {
+        "id": "author",
+        "type": "string",
+        "label": "Author Name",
+        "default": "Steve Jobs"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Glow",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "author-photo",
+        "type": "image",
+        "label": "Author Photo",
+        "default": ""
+      },
+      {
+        "id": "author-photo-zoom",
+        "type": "number",
+        "label": "Photo Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "author-photo-pos-x",
+        "type": "number",
+        "label": "Photo Pos X",
+        "default": 0
+      },
+      {
+        "id": "author-photo-pos-y",
+        "type": "number",
+        "label": "Photo Pos Y",
+        "default": 0
+      },
+      {
+        "id": "bg_opacity",
+        "type": "number",
+        "label": "Background Opacity",
+        "default": 0.88
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Background Color",
+        "default": "#0F172A"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "quote-card-glass_preview.mp4",
+    "sha256": "088de3e0b3d71a210548535d3fbfe9c925ee5c1fb74107432e70bd61f18754f9"
+  },
+  {
+    "id": "a1b2c3d4-0021-4000-8000-000000000021",
+    "title": "Editorial Pullquote Title",
+    "description": "High editorial italics serif pullquote framed by horizontal rule lines and citation.",
+    "file": "title-editorial-pullquote.tgx",
+    "tags": [
+      "pullquote",
+      "editorial",
+      "serif",
+      "quote",
+      "citation",
+      "magazine"
+    ],
+    "previews": {
+      "landscape": "title-editorial-pullquote_poster.jpg"
+    },
+    "category": "titles",
+    "duration_s": 6.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "quote",
+        "type": "string",
+        "label": "Pullquote Text",
+        "default": "Simplicity is about subtracting the obvious and adding the meaningful."
+      },
+      {
+        "id": "source",
+        "type": "string",
+        "label": "Source / Book",
+        "default": "John Maeda, Laws of Simplicity"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Line Accent",
+        "default": "#10B981"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "title-editorial-pullquote_preview.mp4",
+    "sha256": "5bf2b3c83061116b7bfdb8814a77d4bf065d574a9c958ba6a2f40190df2b7498"
+  },
+  {
+    "id": "a1b2c3d4-0022-4000-8000-000000000022",
+    "title": "Topical Pill Segment Opener",
+    "description": "Podcast and tutorial category chip that expands outward followed by large title reveal.",
+    "file": "title-topical-pill.tgx",
+    "tags": [
+      "topic",
+      "pill",
+      "podcast",
+      "category",
+      "opener",
+      "segment",
+      "header"
+    ],
+    "previews": {
+      "landscape": "title-topical-pill_poster.jpg"
+    },
+    "category": "titles",
+    "duration_s": 4.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "category",
+        "type": "string",
+        "label": "Category Label",
+        "default": "CASE STUDY"
+      },
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Episode Title",
+        "default": "Scaling Node.js Microservices"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Category Pill Color",
+        "default": "#8B5CF6"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "title-topical-pill_preview.mp4",
+    "sha256": "dc4d39029afcdb884448030f25a75641c5ae4457dc8f766947508da6c43ac027"
+  },
+  {
+    "id": "a1b2c3d4-0023-4000-8000-000000000023",
+    "title": "Breaking News Banner Title",
+    "description": "High urgency full-width red alert header bar with flashing alert icon and bold news headline.",
+    "file": "title-breaking-banner.tgx",
+    "tags": [
+      "breaking",
+      "news",
+      "banner",
+      "headline",
+      "alert",
+      "broadcast",
+      "urgent"
+    ],
+    "previews": {
+      "landscape": "title-breaking-banner_poster.jpg"
+    },
+    "category": "titles",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "alert_label",
+        "type": "string",
+        "label": "Alert Label",
+        "default": "BREAKING NEWS"
+      },
+      {
+        "id": "headline",
+        "type": "string",
+        "label": "News Headline",
+        "default": "Global Tech Summit Announces Next-Gen Open Standards"
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Alert Bar Color",
+        "default": "#DC2626"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "title-breaking-banner_preview.mp4",
+    "sha256": "f8018cf9acd08554bea6aa1e349f46b7bfaec8fc83e06ebf0031ea88d778199f"
+  },
+  {
+    "id": "a1b2c3d4-0024-4000-8000-000000000024",
+    "title": "Grid Index Numbered Opener",
+    "description": "Structured index numbered card with corner index box and horizontal topic slide.",
+    "file": "title-grid-index.tgx",
+    "tags": [
+      "grid",
+      "index",
+      "numbered",
+      "topic",
+      "opener",
+      "presentation",
+      "list"
+    ],
+    "previews": {
+      "landscape": "title-grid-index_poster.jpg"
+    },
+    "category": "titles",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "index_num",
+        "type": "string",
+        "label": "Index Number",
+        "default": "03"
+      },
+      {
+        "id": "topic",
+        "type": "string",
+        "label": "Topic Header",
+        "default": "OPTIMIZING RENDER LOOPS"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Index Box Color",
+        "default": "#2563EB"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "title-grid-index_preview.mp4",
+    "sha256": "cbbc6f4b237c8ac96759b849fe0f997fc01860de67bc4e18aa9d13511977fb03"
+  },
+  {
+    "id": "a1b2c3d4-0003-4000-8000-000000000003",
+    "title": "Subscribe CTA with Sound",
+    "description": "Animated subscribe pill with avatar badge, channel handle, and button pop sound.",
+    "file": "subscribe-cta-sound.tgx",
+    "tags": [
+      "subscribe",
+      "cta",
+      "social",
+      "youtube",
+      "follow",
+      "channel",
+      "sound"
+    ],
+    "previews": {
+      "landscape": "subscribe-cta-sound_poster.jpg"
+    },
+    "category": "subscribe-follow",
+    "duration_s": 4,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "channel_name",
+        "type": "string",
+        "label": "Channel Name",
+        "default": "TechVision"
+      },
+      {
+        "id": "handle",
+        "type": "string",
+        "label": "Handle",
+        "default": "@techvision"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Button Color",
+        "default": "#E11D48"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "avatar",
+        "type": "image",
+        "label": "Avatar Image",
+        "default": ""
+      },
+      {
+        "id": "avatar-zoom",
+        "type": "number",
+        "label": "Avatar Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "avatar-pos-x",
+        "type": "number",
+        "label": "Avatar Pos X",
+        "default": 0
+      },
+      {
+        "id": "avatar-pos-y",
+        "type": "number",
+        "label": "Avatar Pos Y",
+        "default": 0
+      }
+    ],
+    "preview_video": "subscribe-cta-sound_preview.mp4",
+    "sha256": "b58a9e72e0dc9f0c7f450f1aac87579004ad3a36281026ab3b9c609b148b9b20"
+  },
+  {
+    "id": "a1b2c3d4-0025-4000-8000-000000000025",
+    "title": "Instagram Gradient Follow CTA",
+    "description": "Vibrant Instagram Reels spinning gradient ring and animated follow button toggle.",
+    "file": "cta-follow-gradient-instagram.tgx",
+    "tags": [
+      "instagram",
+      "follow",
+      "reels",
+      "gradient",
+      "cta",
+      "social"
+    ],
+    "previews": {
+      "landscape": "cta-follow-gradient-instagram_poster.jpg"
+    },
+    "category": "subscribe-follow",
+    "duration_s": 4.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "handle",
+        "type": "string",
+        "label": "Instagram Handle",
+        "default": "@studio.creatives"
+      },
+      {
+        "id": "button_text",
+        "type": "string",
+        "label": "Button Text",
+        "default": "Follow"
+      },
+      {
+        "id": "gradient_start",
+        "type": "color",
+        "label": "Gradient Start",
+        "default": "#833AB4"
+      },
+      {
+        "id": "gradient_end",
+        "type": "color",
+        "label": "Gradient End",
+        "default": "#FD1D1D"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "avatar",
+        "type": "image",
+        "label": "Avatar Image",
+        "default": ""
+      },
+      {
+        "id": "avatar-zoom",
+        "type": "number",
+        "label": "Avatar Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "avatar-pos-x",
+        "type": "number",
+        "label": "Avatar Pos X",
+        "default": 0
+      },
+      {
+        "id": "avatar-pos-y",
+        "type": "number",
+        "label": "Avatar Pos Y",
+        "default": 0
+      }
+    ],
+    "preview_video": "cta-follow-gradient-instagram_preview.mp4",
+    "sha256": "7d4b5b426d12200a3d9af97fbd517715cbb06142b9c772298f7d46ea0558c566"
+  },
+  {
+    "id": "a1b2c3d4-0026-4000-8000-000000000026",
+    "title": "TikTok & Shorts Channel Pop Badge",
+    "description": "Compact vertical video avatar badge with pulsing glowing plus follow icon.",
+    "file": "cta-channel-badge-pop.tgx",
+    "tags": [
+      "tiktok",
+      "shorts",
+      "vertical",
+      "badge",
+      "follow",
+      "pop",
+      "cta"
+    ],
+    "previews": {
+      "landscape": "cta-channel-badge-pop_poster.jpg"
+    },
+    "category": "subscribe-follow",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "channel_title",
+        "type": "string",
+        "label": "Channel Title",
+        "default": "Daily Coding"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Plus Icon Color",
+        "default": "#22C55E"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "avatar",
+        "type": "image",
+        "label": "Avatar Image",
+        "default": ""
+      },
+      {
+        "id": "avatar-zoom",
+        "type": "number",
+        "label": "Avatar Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "avatar-pos-x",
+        "type": "number",
+        "label": "Avatar Pos X",
+        "default": 0
+      },
+      {
+        "id": "avatar-pos-y",
+        "type": "number",
+        "label": "Avatar Pos Y",
+        "default": 0
+      }
+    ],
+    "preview_video": "cta-channel-badge-pop_preview.mp4",
+    "sha256": "64c0117e271b3670a3f27843aba88102c963afd633f9eb42c7c916268089d0e9"
+  },
+  {
+    "id": "a1b2c3d4-0027-4000-8000-000000000027",
+    "title": "Engagement Trio Bar CTA",
+    "description": "Sequentially popping trio action chips for Like, Comment, and Share with pulse highlights.",
+    "file": "cta-like-share-comment.tgx",
+    "tags": [
+      "engagement",
+      "like",
+      "comment",
+      "share",
+      "social",
+      "cta",
+      "bar"
+    ],
+    "previews": {
+      "landscape": "cta-like-share-comment_poster.jpg"
+    },
+    "category": "subscribe-follow",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "label",
+        "type": "string",
+        "label": "Prompt Text",
+        "default": "Enjoying this video? Do not forget to:"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Icon Highlight Color",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "cta-like-share-comment_preview.mp4",
+    "sha256": "a23211141c30059a75f3da3ecb552b7d971f5b85db0de56e655bd3751d032687"
+  },
+  {
+    "id": "a1b2c3d4-0028-4000-8000-000000000028",
+    "title": "Podcast Audio Wave Listen Card",
+    "description": "Animated equalizer audio bars card with podcast title and platform badges.",
+    "file": "cta-podcast-listen.tgx",
+    "tags": [
+      "podcast",
+      "audio",
+      "waveform",
+      "spotify",
+      "listen",
+      "cta"
+    ],
+    "previews": {
+      "landscape": "cta-podcast-listen_poster.jpg"
+    },
+    "category": "subscribe-follow",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "podcast_name",
+        "type": "string",
+        "label": "Podcast Name",
+        "default": "The Tech Founder Show"
+      },
+      {
+        "id": "episode_num",
+        "type": "string",
+        "label": "Episode #",
+        "default": "EPISODE 42"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Waveform Color",
+        "default": "#1DB954"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "cta-podcast-listen_preview.mp4",
+    "sha256": "5fa34655b73ef7464b7d1c07c2c2b0f25cb99e5d608bf74d36d16900b15def3f"
+  },
+  {
+    "id": "a1b2c3d4-0029-4000-8000-000000000029",
+    "title": "Newsletter Email Subscription CTA",
+    "description": "Email newsletter subscription box with mockup input field and join button pulse.",
+    "file": "cta-newsletter-signup.tgx",
+    "tags": [
+      "newsletter",
+      "email",
+      "signup",
+      "subscription",
+      "cta",
+      "input"
+    ],
+    "previews": {
+      "landscape": "cta-newsletter-signup_poster.jpg"
+    },
+    "category": "subscribe-follow",
+    "duration_s": 5.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "heading",
+        "type": "string",
+        "label": "Headline",
+        "default": "Join 50,000+ Engineers"
+      },
+      {
+        "id": "subtext",
+        "type": "string",
+        "label": "Subtext",
+        "default": "Get weekly systemic architecture insights"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Button Color",
+        "default": "#6366F1"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "cta-newsletter-signup_preview.mp4",
+    "sha256": "3e6fdf09182eb508ed2b4ef262646cbc45e3a7c7d52af3e9df836ec619ea093c"
+  },
+  {
+    "id": "a1b2c3d4-0010-4000-8000-000000000010",
+    "title": "Pointer Target Leader Callout",
+    "description": "Pulsing target dot with angled leader line, spec description box, and click audio.",
+    "file": "shape-reveal-callout.tgx",
+    "tags": [
+      "callout",
+      "annotation",
+      "pointer",
+      "leader-line",
+      "target",
+      "highlight",
+      "click"
+    ],
+    "previews": {
+      "landscape": "shape-reveal-callout_poster.jpg"
+    },
+    "category": "callouts",
+    "duration_s": 5.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "label",
+        "type": "string",
+        "label": "Header Label",
+        "default": "KEY FEATURE"
+      },
+      {
+        "id": "subtext",
+        "type": "string",
+        "label": "Subtext Description",
+        "default": "HyperFrames Renderer Engine"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Target & Line Accent",
+        "default": "#8B5CF6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "shape-reveal-callout_preview.mp4",
+    "sha256": "fe8ee38516276b84cb85007be185ff81da047dfb337e0109dbd166cca54a03a1"
+  },
+  {
+    "id": "a1b2c3d4-0030-4000-8000-000000000030",
+    "title": "Spotlight Focus Circle Callout",
+    "description": "Precision glowing highlight focus ring annotation with ripple wave pulse.",
+    "file": "callout-spotlight-circle.tgx",
+    "tags": [
+      "spotlight",
+      "circle",
+      "highlighter",
+      "focus",
+      "annotation",
+      "ring"
+    ],
+    "previews": {
+      "landscape": "callout-spotlight-circle_poster.jpg"
+    },
+    "category": "callouts",
+    "duration_s": 4,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Ring Color",
+        "default": "#EF4444"
+      },
+      {
+        "id": "stroke_width",
+        "type": "number",
+        "label": "Ring Stroke",
+        "default": 4
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "callout-spotlight-circle_preview.mp4",
+    "sha256": "a804bda6bf956673d5f6c41dfbdbbddcbd5d473dfbfbd4366e2b3e2a269ddf3b"
+  },
+  {
+    "id": "a1b2c3d4-0031-4000-8000-000000000031",
+    "title": "Geospatial Location Pin Drop Callout",
+    "description": "Location map pin drops vertically with ground ripple effect, revealing location card.",
+    "file": "callout-pin-drop.tgx",
+    "tags": [
+      "pin",
+      "map",
+      "location",
+      "geospatial",
+      "drop",
+      "callout"
+    ],
+    "previews": {
+      "landscape": "callout-pin-drop_poster.jpg"
+    },
+    "category": "callouts",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "location_name",
+        "type": "string",
+        "label": "Location Name",
+        "default": "SAN FRANCISCO, CA"
+      },
+      {
+        "id": "subtext",
+        "type": "string",
+        "label": "Details",
+        "default": "HQ & Operations Center"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Pin Color",
+        "default": "#EA580C"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "callout-pin-drop_preview.mp4",
+    "sha256": "050382e5ea14327326608e5918b2faaba6326872bff27ae8ee169e5fdee6c976"
+  },
+  {
+    "id": "a1b2c3d4-0032-4000-8000-000000000032",
+    "title": "Keyboard Shortcut Keycaps Callout",
+    "description": "3D tactile keycaps chip with sequential keypress animation and command description.",
+    "file": "callout-keyboard-shortcut.tgx",
+    "tags": [
+      "keycap",
+      "keyboard",
+      "shortcut",
+      "command",
+      "hotkey",
+      "chip"
+    ],
+    "previews": {
+      "landscape": "callout-keyboard-shortcut_poster.jpg"
+    },
+    "category": "callouts",
+    "duration_s": 3.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "key1",
+        "type": "string",
+        "label": "Modifier Key",
+        "default": "CMD"
+      },
+      {
+        "id": "key2",
+        "type": "string",
+        "label": "Action Key",
+        "default": "K"
+      },
+      {
+        "id": "label",
+        "type": "string",
+        "label": "Command Description",
+        "default": "Quick Command Palette"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Keycap Highlight",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "callout-keyboard-shortcut_preview.mp4",
+    "sha256": "1a4a56e3ffe8cf33974ccb6d48fbef1a170dbd67076678ea86ce1f2a2ce5d77e"
+  },
+  {
+    "id": "a1b2c3d4-0033-4000-8000-000000000033",
+    "title": "Micro Spec Badge Chip Callout",
+    "description": "Compact technical specification badge with hardware CPU icon and spring easing.",
+    "file": "callout-badge-chip.tgx",
+    "tags": [
+      "badge",
+      "chip",
+      "spec",
+      "cpu",
+      "hardware",
+      "callout"
+    ],
+    "previews": {
+      "landscape": "callout-badge-chip_poster.jpg"
+    },
+    "category": "callouts",
+    "duration_s": 4,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "label",
+        "type": "string",
+        "label": "Spec Label",
+        "default": "ARCHITECTURE"
+      },
+      {
+        "id": "val",
+        "type": "string",
+        "label": "Value",
+        "default": "ARM64 / Apple M3 Max"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Badge Color",
+        "default": "#10B981"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "callout-badge-chip_preview.mp4",
+    "sha256": "fa94bae98ba0ddc68caefae6345ffa189477408411f04fe8fa0c3f5cce3c6b75"
+  },
+  {
+    "id": "a1b2c3d4-0034-4000-8000-000000000034",
+    "title": "Product Feature Tag Callout",
+    "description": "Floating translucent tag with animated checkmark draw and feature description.",
+    "file": "callout-feature-tag.tgx",
+    "tags": [
+      "feature",
+      "tag",
+      "product",
+      "check",
+      "highlight",
+      "callout"
+    ],
+    "previews": {
+      "landscape": "callout-feature-tag_poster.jpg"
+    },
+    "category": "callouts",
+    "duration_s": 4.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "feature_text",
+        "type": "string",
+        "label": "Feature Name",
+        "default": "Zero Latency Edge Rendering"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Check Color",
+        "default": "#22C55E"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "callout-feature-tag_preview.mp4",
+    "sha256": "f92e563a07d19d8c5d13d25c25021ffb40da02957b4d76257b26a6b2062bb8bd"
+  },
+  {
+    "id": "a1b2c3d4-0004-4000-8000-000000000004",
+    "title": "Stat Counter Ring",
+    "description": "Scrub-aware animated stat reveal with SVG progress ring and count-up percentage.",
+    "file": "stat-counter-ring.tgx",
+    "tags": [
+      "stat",
+      "number",
+      "count-up",
+      "chart",
+      "metric",
+      "ring",
+      "percentage"
+    ],
+    "previews": {
+      "landscape": "stat-counter-ring_poster.jpg"
+    },
+    "category": "stats",
+    "duration_s": 4,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "value",
+        "type": "number",
+        "label": "Target Value",
+        "default": 85
+      },
+      {
+        "id": "label",
+        "type": "string",
+        "label": "Metric Label",
+        "default": "ARR Growth Rate"
+      },
+      {
+        "id": "prefix",
+        "type": "string",
+        "label": "Prefix Symbol",
+        "default": "+"
+      },
+      {
+        "id": "suffix",
+        "type": "string",
+        "label": "Suffix Symbol",
+        "default": "%"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Ring Accent",
+        "default": "#10B981"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "stat-counter-ring_preview.mp4",
+    "sha256": "5b1daf5dedb448582015a5a9941874bbbc17b55ca9763963de2dc7aef3ee8afb"
+  },
+  {
+    "id": "a1b2c3d4-0035-4000-8000-000000000035",
+    "title": "Hero Big Number Countup",
+    "description": "Giant display numeral counting up rapidly with ease-out curve and minimal subtitle.",
+    "file": "stat-big-number-countup.tgx",
+    "tags": [
+      "stat",
+      "hero",
+      "number",
+      "countup",
+      "big-number",
+      "metric"
+    ],
+    "previews": {
+      "landscape": "stat-big-number-countup_poster.jpg"
+    },
+    "category": "stats",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "number",
+        "type": "number",
+        "label": "Target Number",
+        "default": 1000000
+      },
+      {
+        "id": "prefix",
+        "type": "string",
+        "label": "Prefix",
+        "default": "$"
+      },
+      {
+        "id": "label",
+        "type": "string",
+        "label": "Metric Name",
+        "default": "ANNUAL RECURRING REVENUE"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Number Color",
+        "default": "#F59E0B"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "stat-big-number-countup_preview.mp4",
+    "sha256": "7cb058b626958ba6c132e6c4f2b4aee1249cc07e50f0664376d6446de5be1b10"
+  },
+  {
+    "id": "a1b2c3d4-0036-4000-8000-000000000036",
+    "title": "Before vs After Comparison Metric",
+    "description": "Side-by-side comparison card showing before metric and vibrant improvement after metric.",
+    "file": "stat-comparison-split.tgx",
+    "tags": [
+      "comparison",
+      "before-after",
+      "metric",
+      "stat",
+      "improvement",
+      "speed"
+    ],
+    "previews": {
+      "landscape": "stat-comparison-split_poster.jpg"
+    },
+    "category": "stats",
+    "duration_s": 5.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "before_val",
+        "type": "string",
+        "label": "Before Metric",
+        "default": "4.2s"
+      },
+      {
+        "id": "before_label",
+        "type": "string",
+        "label": "Before Label",
+        "default": "OLD RENDER TIME"
+      },
+      {
+        "id": "after_val",
+        "type": "string",
+        "label": "After Metric",
+        "default": "0.4s"
+      },
+      {
+        "id": "after_label",
+        "type": "string",
+        "label": "After Label",
+        "default": "NEW ENGINE TIME"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Improvement Accent",
+        "default": "#22C55E"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "stat-comparison-split_preview.mp4",
+    "sha256": "aff69262b2a5bce258d70592eb225d6849cf2d100ae0e202ba7d36803da92620"
+  },
+  {
+    "id": "a1b2c3d4-0037-4000-8000-000000000037",
+    "title": "Executive 3-KPI Dashboard Row",
+    "description": "Executive dashboard row of 3 metrics with subtle vertical divider draws and staggered upward motion.",
+    "file": "stat-trio-row.tgx",
+    "tags": [
+      "kpi",
+      "dashboard",
+      "trio",
+      "metric",
+      "stat",
+      "row",
+      "executive"
+    ],
+    "previews": {
+      "landscape": "stat-trio-row_poster.jpg"
+    },
+    "category": "stats",
+    "duration_s": 5.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "stat1_val",
+        "type": "string",
+        "label": "Stat 1 Value",
+        "default": "99.99%"
+      },
+      {
+        "id": "stat1_label",
+        "type": "string",
+        "label": "Stat 1 Label",
+        "default": "UPTIME"
+      },
+      {
+        "id": "stat2_val",
+        "type": "string",
+        "label": "Stat 2 Value",
+        "default": "12ms"
+      },
+      {
+        "id": "stat2_label",
+        "type": "string",
+        "label": "Stat 2 Label",
+        "default": "LATENCY"
+      },
+      {
+        "id": "stat3_val",
+        "type": "string",
+        "label": "Stat 3 Value",
+        "default": "5.2M"
+      },
+      {
+        "id": "stat3_label",
+        "type": "string",
+        "label": "Stat 3 Label",
+        "default": "REQUESTS/SEC"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Highlight Accent",
+        "default": "#6366F1"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "stat-trio-row_preview.mp4",
+    "sha256": "56e2c25bcb089c9306bdb53758496b9a24a9b2192266e263221861700c5a9849"
+  },
+  {
+    "id": "a1b2c3d4-0038-4000-8000-000000000038",
+    "title": "Percentage Track Progress Bar",
+    "description": "Horizontal progress track filling to target percentage with tracking percentage tag.",
+    "file": "stat-percentage-bar.tgx",
+    "tags": [
+      "percentage",
+      "bar",
+      "track",
+      "progress",
+      "completion",
+      "metric"
+    ],
+    "previews": {
+      "landscape": "stat-percentage-bar_poster.jpg"
+    },
+    "category": "stats",
+    "duration_s": 4.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "percent",
+        "type": "number",
+        "label": "Percentage (0-100)",
+        "default": 78
+      },
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Metric Title",
+        "default": "PROJECT COMPLETION"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Bar Fill Color",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "stat-percentage-bar_preview.mp4",
+    "sha256": "15adfb70318d369dae00af43dd0f34d7dc7a953620afdd3171694f22af822e59"
+  },
+  {
+    "id": "a1b2c3d4-0039-4000-8000-000000000039",
+    "title": "Financial Stock Ticker Badge",
+    "description": "Stock market ticker badge with delta percentage and positive/negative trend icon.",
+    "file": "stat-financial-ticker.tgx",
+    "tags": [
+      "stock",
+      "ticker",
+      "finance",
+      "delta",
+      "market",
+      "trading"
+    ],
+    "previews": {
+      "landscape": "stat-financial-ticker_poster.jpg"
+    },
+    "category": "stats",
+    "duration_s": 4,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "ticker",
+        "type": "string",
+        "label": "Symbol",
+        "default": "NVDA"
+      },
+      {
+        "id": "price",
+        "type": "string",
+        "label": "Price",
+        "default": "$128.50"
+      },
+      {
+        "id": "delta",
+        "type": "string",
+        "label": "Change",
+        "default": "+4.25%"
+      },
+      {
+        "id": "is_positive",
+        "type": "boolean",
+        "label": "Is Positive Delta",
+        "default": true
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Positive Color",
+        "default": "#22C55E"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "stat-financial-ticker_preview.mp4",
+    "sha256": "1a52514243dc22ebbab7fbba54e67bb95cafa8b2da688950fb0406e0fd0f4eba"
+  },
+  {
+    "id": "a1b2c3d4-0005-4000-8000-000000000005",
+    "title": "Glitch Swipe Polygon Wipe Transition",
+    "description": "High-energy angled dual-color polygon swipe transition for seamless cuts.",
+    "file": "glitch-swipe-wipe.tgx",
+    "tags": [
+      "transition",
+      "wipe",
+      "swipe",
+      "cut",
+      "glitch",
+      "polygon",
+      "overlay"
+    ],
+    "previews": {
+      "landscape": "glitch-swipe-wipe_poster.jpg"
+    },
+    "category": "transitions",
+    "duration_s": 1.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "color1",
+        "type": "color",
+        "label": "Primary Wipe Color",
+        "default": "#6366F1"
+      },
+      {
+        "id": "color2",
+        "type": "color",
+        "label": "Secondary Wipe Color",
+        "default": "#EC4899"
+      }
+    ],
+    "preview_video": "glitch-swipe-wipe_preview.mp4",
+    "sha256": "ddbfc8613d371e14b3a8c180024b160ab594ef7ca15573fd64c4a139c877ff78"
+  },
+  {
+    "id": "a1b2c3d4-0040-4000-8000-000000000040",
+    "title": "Circle Iris Expand Transition",
+    "description": "Center expanding circle iris wipe covering the entire frame then opening.",
+    "file": "transition-circle-expand.tgx",
+    "tags": [
+      "transition",
+      "iris",
+      "circle",
+      "expand",
+      "wipe",
+      "cut"
+    ],
+    "previews": {
+      "landscape": "transition-circle-expand_poster.jpg"
+    },
+    "category": "transitions",
+    "duration_s": 1.2,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "color",
+        "type": "color",
+        "label": "Circle Wipe Color",
+        "default": "#0F172A"
+      }
+    ],
+    "preview_video": "transition-circle-expand_preview.mp4",
+    "sha256": "047a522fcd576edeabae9988a8452e1a4950d25cfdb52aaf05d3e4957ebd504a"
+  },
+  {
+    "id": "a1b2c3d4-0041-4000-8000-000000000041",
+    "title": "Multi-Stripe Sliding Bars Transition",
+    "description": "Five vertical stripes sliding in alternation from top and bottom to cover the canvas.",
+    "file": "transition-sliding-bars.tgx",
+    "tags": [
+      "transition",
+      "bars",
+      "stripes",
+      "sliding",
+      "wipe",
+      "motion"
+    ],
+    "previews": {
+      "landscape": "transition-sliding-bars_poster.jpg"
+    },
+    "category": "transitions",
+    "duration_s": 1.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "bar_color",
+        "type": "color",
+        "label": "Stripe Fill",
+        "default": "#1E293B"
+      },
+      {
+        "id": "accent_stripe",
+        "type": "color",
+        "label": "Accent Stripe",
+        "default": "#3B82F6"
+      }
+    ],
+    "preview_video": "transition-sliding-bars_preview.mp4",
+    "sha256": "19ce074f907b9d43a43ede3949aa5e35fbf52e17581bdba0de6953efba2c93ca"
+  },
+  {
+    "id": "a1b2c3d4-0042-4000-8000-000000000042",
+    "title": "Solid Brand Bar Sweep Transition",
+    "description": "Full-frame horizontal sweep with solid brand block and thin trailing accent edge.",
+    "file": "transition-brand-sweep.tgx",
+    "tags": [
+      "transition",
+      "brand",
+      "sweep",
+      "wipe",
+      "corporate",
+      "horizontal"
+    ],
+    "previews": {
+      "landscape": "transition-brand-sweep_poster.jpg"
+    },
+    "category": "transitions",
+    "duration_s": 1.4,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "brand_color",
+        "type": "color",
+        "label": "Brand Base Color",
+        "default": "#0F172A"
+      },
+      {
+        "id": "accent_trail",
+        "type": "color",
+        "label": "Leading Edge Accent",
+        "default": "#F59E0B"
+      }
+    ],
+    "preview_video": "transition-brand-sweep_preview.mp4",
+    "sha256": "2688f8955d1ed8fc440e9ceaecf693c50f0f86fec888c1942d9ab47116e1faac"
+  },
+  {
+    "id": "a1b2c3d4-0043-4000-8000-000000000043",
+    "title": "Curtain Split Center-Out Transition",
+    "description": "Two halves of the screen meet in the center, pause, then split smoothly outward.",
+    "file": "transition-split-curtain.tgx",
+    "tags": [
+      "transition",
+      "curtain",
+      "split",
+      "wipe",
+      "cinema",
+      "reveal"
+    ],
+    "previews": {
+      "landscape": "transition-split-curtain_poster.jpg"
+    },
+    "category": "transitions",
+    "duration_s": 1.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "curtain_color",
+        "type": "color",
+        "label": "Curtain Fill",
+        "default": "#18181B"
+      }
+    ],
+    "preview_video": "transition-split-curtain_preview.mp4",
+    "sha256": "075fa651ced8a9b1295fcbea8c729cce131cf7af95f2100511c352fb26ba665a"
+  },
+  {
+    "id": "a1b2c3d4-0009-4000-8000-000000000009",
+    "title": "Countdown Timer Accent Ring",
+    "description": "Circular countdown timer with radial progress ring and audio tick/beep.",
+    "file": "countdown-timer-accent.tgx",
+    "tags": [
+      "timer",
+      "countdown",
+      "progress",
+      "clock",
+      "ring",
+      "beep"
+    ],
+    "previews": {
+      "landscape": "countdown-timer-accent_poster.jpg"
+    },
+    "category": "progress-timers",
+    "duration_s": 8,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Timer Label",
+        "default": "NEXT LESSON IN"
+      },
+      {
+        "id": "seconds",
+        "type": "number",
+        "label": "Duration (s)",
+        "default": 8
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Ring Accent",
+        "default": "#6366F1"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "countdown-timer-accent_preview.mp4",
+    "sha256": "c7606684c23c4e45daf03073cbef0818294ad5dec393a4aeaa6067f776ba8c90"
+  },
+  {
+    "id": "a1b2c3d4-0044-4000-8000-000000000044",
+    "title": "Top Edge Stream Progress Bar",
+    "description": "Thin glowing progress line extending across the full top edge of the canvas.",
+    "file": "timer-top-progress-bar.tgx",
+    "tags": [
+      "progress",
+      "top-bar",
+      "stream",
+      "timer",
+      "edge",
+      "minimal"
+    ],
+    "previews": {
+      "landscape": "timer-top-progress-bar_poster.jpg"
+    },
+    "category": "progress-timers",
+    "duration_s": 10,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "line_color",
+        "type": "color",
+        "label": "Progress Line Color",
+        "default": "#EF4444"
+      },
+      {
+        "id": "line_height",
+        "type": "number",
+        "label": "Line Height (px)",
+        "default": 6
+      }
+    ],
+    "preview_video": "timer-top-progress-bar_preview.mp4",
+    "sha256": "8726fba2921406cec596cb9cad6ce48318dd757933745a6618bc3ccd7d251f9b"
+  },
+  {
+    "id": "a1b2c3d4-0045-4000-8000-000000000045",
+    "title": "Multi-Step Milestone Tracker",
+    "description": "Horizontal step nodes (1 - 2 - 3) with connecting line fills and active node indicator.",
+    "file": "progress-step-tracker.tgx",
+    "tags": [
+      "step",
+      "tracker",
+      "milestone",
+      "workflow",
+      "progress",
+      "nodes"
+    ],
+    "previews": {
+      "landscape": "progress-step-tracker_poster.jpg"
+    },
+    "category": "progress-timers",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "current_step",
+        "type": "number",
+        "label": "Active Step (1-3)",
+        "default": 2
+      },
+      {
+        "id": "step1_text",
+        "type": "string",
+        "label": "Step 1 Label",
+        "default": "IDEATE"
+      },
+      {
+        "id": "step2_text",
+        "type": "string",
+        "label": "Step 2 Label",
+        "default": "PROTOTYPE"
+      },
+      {
+        "id": "step3_text",
+        "type": "string",
+        "label": "Step 3 Label",
+        "default": "SHIP"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Active Step Color",
+        "default": "#10B981"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "progress-step-tracker_preview.mp4",
+    "sha256": "3fb514bd67565dda30dbfb49275f14f5fd4f26d71c40c96ae225ea8396f6428f"
+  },
+  {
+    "id": "a1b2c3d4-0046-4000-8000-000000000046",
+    "title": "Monospace Digital Stopwatch Counter",
+    "description": "Digital timecode 00:00:00 display card ticking with glowing accents.",
+    "file": "timer-minimal-counter.tgx",
+    "tags": [
+      "timer",
+      "stopwatch",
+      "counter",
+      "timecode",
+      "digital",
+      "clock"
+    ],
+    "previews": {
+      "landscape": "timer-minimal-counter_poster.jpg"
+    },
+    "category": "progress-timers",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "label",
+        "type": "string",
+        "label": "Timer Tag",
+        "default": "ELAPSED TIME"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Timecode Color",
+        "default": "#38BDF8"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "timer-minimal-counter_preview.mp4",
+    "sha256": "7cfd5f187db3d0e85a454eb5722ae652548ec1672f46b3f7b1a7420a1c6155f6"
+  },
+  {
+    "id": "a1b2c3d4-0047-4000-8000-000000000047",
+    "title": "Reading Progress Track Indicator",
+    "description": "Subtle bottom progress pill for presentations and slide decks.",
+    "file": "progress-reading-indicator.tgx",
+    "tags": [
+      "reading",
+      "progress",
+      "indicator",
+      "presentation",
+      "track",
+      "slide"
+    ],
+    "previews": {
+      "landscape": "progress-reading-indicator_poster.jpg"
+    },
+    "category": "progress-timers",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "label",
+        "type": "string",
+        "label": "Module Title",
+        "default": "Section 2: Engine Internals"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Progress Color",
+        "default": "#A855F7"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "progress-reading-indicator_preview.mp4",
+    "sha256": "750c62a0640bd740466b92c9bfa29dfea258d22b98a43dd72e867c1d79e49f3a"
+  },
+  {
+    "id": "a1b2c3d4-0008-4000-8000-000000000008",
+    "title": "iOS Notification Toast Alert with Chime",
+    "description": "Sleek mobile notification toast alert with app icon, title, message text, and companion audio chime.",
+    "file": "notification-toast-sound.tgx",
+    "tags": [
+      "notification",
+      "toast",
+      "alert",
+      "ios",
+      "mobile",
+      "card",
+      "sound",
+      "message"
+    ],
+    "previews": {
+      "landscape": "notification-toast-sound_poster.jpg"
+    },
+    "category": "social-cards",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "app_name",
+        "type": "string",
+        "label": "App Name",
+        "default": "Messages"
+      },
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Sender Name",
+        "default": "Sarah Jenkins"
+      },
+      {
+        "id": "message",
+        "type": "string",
+        "label": "Message Preview",
+        "default": "Hey! Did you check out the new design system update?"
+      },
+      {
+        "id": "time",
+        "type": "string",
+        "label": "Time Stamp",
+        "default": "now"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "App Accent",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "notification-toast-sound_preview.mp4",
+    "sha256": "7abd36c39b5f6375eb211d1158e15072f12130a6d1910de60be4e2a14694d87b"
+  },
+  {
+    "id": "a1b2c3d4-0048-4000-8000-000000000048",
+    "title": "Conversational Chat Bubble with Typing Dots",
+    "description": "Modern messaging chat bubble with animated typing dots indicator, avatar, and sender timestamp.",
+    "file": "social-chat-bubble.tgx",
+    "tags": [
+      "social",
+      "chat",
+      "bubble",
+      "imessage",
+      "whatsapp",
+      "messaging",
+      "typing",
+      "conversation"
+    ],
+    "previews": {
+      "landscape": "social-chat-bubble_poster.jpg"
+    },
+    "category": "social-cards",
+    "duration_s": 5.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "sender",
+        "type": "string",
+        "label": "Sender Name",
+        "default": "Alex Rivers"
+      },
+      {
+        "id": "message",
+        "type": "string",
+        "label": "Chat Message",
+        "default": "Let us launch this project today!"
+      },
+      {
+        "id": "time",
+        "type": "string",
+        "label": "Timestamp",
+        "default": "10:42 AM"
+      },
+      {
+        "id": "bubble_color",
+        "type": "color",
+        "label": "Bubble Color",
+        "default": "#2563EB"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "social-chat-bubble_preview.mp4",
+    "sha256": "4848bf9de8c25c8b8a72634a13fa56cb179924e2a1324171c76035ad2db6e089"
+  },
+  {
+    "id": "a1b2c3d4-0049-4000-8000-000000000049",
+    "title": "Verified Social Post Card with Metrics",
+    "description": "Verified social media tweet/post card with author handle, check badge, quote text, and engagement counts.",
+    "file": "social-tweet-card.tgx",
+    "tags": [
+      "social",
+      "tweet",
+      "twitter",
+      "x",
+      "card",
+      "post",
+      "status",
+      "verified",
+      "quote"
+    ],
+    "previews": {
+      "landscape": "social-tweet-card_poster.jpg"
+    },
+    "category": "social-cards",
+    "duration_s": 6.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "author_name",
+        "type": "string",
+        "label": "Author Name",
+        "default": "Guillermo Rauch"
+      },
+      {
+        "id": "handle",
+        "type": "string",
+        "label": "Social Handle",
+        "default": "@rauchg"
+      },
+      {
+        "id": "tweet_text",
+        "type": "string",
+        "label": "Post Content",
+        "default": "The best code is the code you do not have to maintain. Ship fast and iterate."
+      },
+      {
+        "id": "likes",
+        "type": "string",
+        "label": "Likes Count",
+        "default": "4.2K"
+      },
+      {
+        "id": "retweets",
+        "type": "string",
+        "label": "Reposts Count",
+        "default": "892"
+      },
+      {
+        "id": "card_theme",
+        "type": "color",
+        "label": "Card Base Color",
+        "default": "#0F172A"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "social-tweet-card_preview.mp4",
+    "sha256": "26eca5b54b1d7afb69184f832cd75c9d8dfa68e735180df7562f99e472b8e173"
+  },
+  {
+    "id": "a1b2c3d4-0050-4000-8000-000000000050",
+    "title": "Customer Testimonial Card with 5-Star Rating",
+    "description": "Customer review testimonial card with animated 5-star rating sequence, avatar, and quote.",
+    "file": "social-testimonial-avatar.tgx",
+    "tags": [
+      "testimonial",
+      "review",
+      "social-proof",
+      "rating",
+      "stars",
+      "quote",
+      "customer",
+      "avatar"
+    ],
+    "previews": {
+      "landscape": "social-testimonial-avatar_poster.jpg"
+    },
+    "category": "social-cards",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "name",
+        "type": "string",
+        "label": "Customer Name",
+        "default": "Marcus Vance"
+      },
+      {
+        "id": "role",
+        "type": "string",
+        "label": "Role / Company",
+        "default": "Head of Product @ Stripe"
+      },
+      {
+        "id": "quote",
+        "type": "string",
+        "label": "Testimonial Quote",
+        "default": "This tool completely revolutionized how our media team creates video content."
+      },
+      {
+        "id": "star_color",
+        "type": "color",
+        "label": "Star Color",
+        "default": "#FBBF24"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "social-testimonial-avatar_preview.mp4",
+    "sha256": "310cf27337851ee55c2d30eeb28fc87deebdb9266d202d72c7620b137707b70a"
+  },
+  {
+    "id": "a1b2c3d4-0051-4000-8000-000000000051",
+    "title": "YouTube Outro End Screen Grid",
+    "description": "Video end screen layout with dual video placeholder drop zones, subscribe pill, and social channels.",
+    "file": "outro-social-grid.tgx",
+    "tags": [
+      "outro",
+      "end-screen",
+      "youtube",
+      "video",
+      "subscribe",
+      "social",
+      "grid"
+    ],
+    "previews": {
+      "landscape": "outro-social-grid_poster.jpg"
+    },
+    "category": "end-screens",
+    "duration_s": 20,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Header Text",
+        "default": "Thanks for watching!"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Call to Action",
+        "default": "Subscribe for new videos every week"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Color",
+        "default": "#EF4444"
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Card Color",
+        "default": "#0F172A"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "outro-social-grid_preview.mp4",
+    "sha256": "ba4fafe02e5346a57687ac6d5dcf0cd57c32a0d9e34d3f55ca026460137743c1"
+  },
+  {
+    "id": "a1b2c3d4-0052-4000-8000-000000000052",
+    "title": "High-Impact Brand Logo Sting Reveal",
+    "description": "Energetic logo stinger with glowing geometric emblem, tagline animation, and companion swoosh audio.",
+    "file": "stinger-brand-logo.tgx",
+    "tags": [
+      "stinger",
+      "logo",
+      "bumper",
+      "reveal",
+      "branding",
+      "intro",
+      "sound"
+    ],
+    "previews": {
+      "landscape": "stinger-brand-logo_poster.jpg"
+    },
+    "category": "logo-stings",
+    "duration_s": 3,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "brand_name",
+        "type": "string",
+        "label": "Brand Name",
+        "default": "VERTEX"
+      },
+      {
+        "id": "tagline",
+        "type": "string",
+        "label": "Tagline",
+        "default": "The Future of Motion"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Color",
+        "default": "#6366F1"
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Card Color",
+        "default": "#0F172A"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "stinger-brand-logo_preview.mp4",
+    "sha256": "7fdba49581ffefe452c9861283aea1db90b4272d7550a0f680625ed317029c2c"
+  },
+  {
+    "id": "a1b2c3d4-0053-4000-8000-000000000053",
+    "title": "Key Takeaways Bullet Points List",
+    "description": "Sequential bullet point reveal card with checkmark badges, bold title, and audio clicks.",
+    "file": "list-bullet-reveal.tgx",
+    "tags": [
+      "list",
+      "bullets",
+      "takeaways",
+      "points",
+      "presentation",
+      "check",
+      "audio"
+    ],
+    "previews": {
+      "landscape": "list-bullet-reveal_poster.jpg"
+    },
+    "category": "lists-bullets",
+    "duration_s": 8,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "List Title",
+        "default": "Key Takeaways"
+      },
+      {
+        "id": "item_1",
+        "type": "string",
+        "label": "Bullet 1",
+        "default": "Fast GPU-Accelerated Rendering"
+      },
+      {
+        "id": "item_2",
+        "type": "string",
+        "label": "Bullet 2",
+        "default": "Reactive Dynamic Graphic Variables"
+      },
+      {
+        "id": "item_3",
+        "type": "string",
+        "label": "Bullet 3",
+        "default": "Hermetic Cross-Platform Delivery"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Check Accent",
+        "default": "#10B981"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "list-bullet-reveal_preview.mp4",
+    "sha256": "9b801cdbc7d9cc8c935250b5b6cc9a3c86a0c3e6f4eee4196944fc0de4e65d4d"
+  },
+  {
+    "id": "a1b2c3d4-0054-4000-8000-000000000054",
+    "title": "Sponsor Ad Read Promo Code Bug",
+    "description": "Dedicated sponsor ad card with logo badge, discount tag, highlighted promo code, and vanity URL.",
+    "file": "callout-sponsor-promo.tgx",
+    "tags": [
+      "sponsor",
+      "promo",
+      "ad",
+      "code",
+      "discount",
+      "read",
+      "commercial"
+    ],
+    "previews": {
+      "landscape": "callout-sponsor-promo_poster.jpg"
+    },
+    "category": "sponsor-promo",
+    "duration_s": 8,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "sponsor_name",
+        "type": "string",
+        "label": "Sponsor Name",
+        "default": "SUPABASE"
+      },
+      {
+        "id": "discount",
+        "type": "string",
+        "label": "Discount Tag",
+        "default": "20% OFF"
+      },
+      {
+        "id": "promo_code",
+        "type": "string",
+        "label": "Promo Code",
+        "default": "USE CODE: TEZ20"
+      },
+      {
+        "id": "url",
+        "type": "string",
+        "label": "Vanity URL",
+        "default": "tez.studio/promo"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Color",
+        "default": "#3ECF8E"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "callout-sponsor-promo_preview.mp4",
+    "sha256": "71b540f27523073937e1a1538dd2ec59dca64681f54aa96346d012a81e47e86c"
+  },
+  {
+    "id": "a1b2c3d4-0055-4000-8000-000000000055",
+    "title": "Course Agenda Chapter Sidebar",
+    "description": "Course & tutorial chapter tracker sidebar with active chapter highlight pill.",
+    "file": "progress-sidebar-agenda.tgx",
+    "tags": [
+      "agenda",
+      "sidebar",
+      "course",
+      "chapters",
+      "track",
+      "progress",
+      "lecture"
+    ],
+    "previews": {
+      "landscape": "progress-sidebar-agenda_poster.jpg"
+    },
+    "category": "agendas-sidebars",
+    "duration_s": 10,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Sidebar Title",
+        "default": "COURSE AGENDA"
+      },
+      {
+        "id": "chapter_1",
+        "type": "string",
+        "label": "Chapter 1",
+        "default": "1. Introduction & Setup"
+      },
+      {
+        "id": "chapter_2",
+        "type": "string",
+        "label": "Chapter 2",
+        "default": "2. Architecture & Design"
+      },
+      {
+        "id": "chapter_3",
+        "type": "string",
+        "label": "Chapter 3",
+        "default": "3. Production Deployment"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Highlight Color",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "progress-sidebar-agenda_preview.mp4",
+    "sha256": "4ff01a0705bd63931dd5d51b916afa97376acf32acab6c0b5b339496368ee198"
+  },
+  {
+    "id": "a1b2c3d4-0056-4000-8000-000000000056",
+    "title": "Developer Terminal Code Window",
+    "description": "macOS terminal code window card with window control dots, syntax styling, and rapid code typing sequence.",
+    "file": "callout-code-snippet.tgx",
+    "tags": [
+      "code",
+      "terminal",
+      "developer",
+      "syntax",
+      "programming",
+      "bash",
+      "audio"
+    ],
+    "previews": {
+      "landscape": "callout-code-snippet_poster.jpg"
+    },
+    "category": "code-snippets",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "window_title",
+        "type": "string",
+        "label": "Window Title",
+        "default": "bash - terminal"
+      },
+      {
+        "id": "command",
+        "type": "string",
+        "label": "Command",
+        "default": "npm run build"
+      },
+      {
+        "id": "status",
+        "type": "string",
+        "label": "Status Output",
+        "default": "ready - built 58 packs in 1.4s"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Prompt Color",
+        "default": "#38BDF8"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "callout-code-snippet_preview.mp4",
+    "sha256": "ad64c8a96f1d47416cd4f931b016735fcd37efb30330b6bfd601d8748988700d"
+  },
+  {
+    "id": "a1b2c3d4-0057-4000-8000-000000000057",
+    "title": "Product Review Scorecard Panel",
+    "description": "High-converting product review scorecard with hero score badge, pros/cons breakdown, and verdict label.",
+    "file": "stat-product-scorecard.tgx",
+    "tags": [
+      "review",
+      "scorecard",
+      "verdict",
+      "rating",
+      "product",
+      "pros",
+      "cons"
+    ],
+    "previews": {
+      "landscape": "stat-product-scorecard_poster.jpg"
+    },
+    "category": "reviews-scorecards",
+    "duration_s": 7,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "product_name",
+        "type": "string",
+        "label": "Product Title",
+        "default": "Sony FX3 Cinema Camera"
+      },
+      {
+        "id": "score",
+        "type": "string",
+        "label": "Hero Score",
+        "default": "9.5"
+      },
+      {
+        "id": "score_label",
+        "type": "string",
+        "label": "Verdict Label",
+        "default": "EDITOR CHOICE"
+      },
+      {
+        "id": "pros_text",
+        "type": "string",
+        "label": "Pros",
+        "default": "Active cooling • Dual native ISO • Compact body"
+      },
+      {
+        "id": "cons_text",
+        "type": "string",
+        "label": "Cons",
+        "default": "Full size HDMI missing • Single flip screen"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Color",
+        "default": "#10B981"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "stat-product-scorecard_preview.mp4",
+    "sha256": "37348ec1e60d8191db82e2ff5cc485f43c04caf7c62ef2bc8fd8c868b0d4af6d"
+  },
+  {
+    "id": "a1b2c3d4-0058-4000-8000-000000000058",
+    "title": "Neon Live Stream Event Promo Card",
+    "description": "Neon livestream & event alert card with date/time badge, platform icon, and chime audio.",
+    "file": "cta-event-promo.tgx",
+    "tags": [
+      "event",
+      "promo",
+      "livestream",
+      "stream",
+      "twitch",
+      "calendar",
+      "announcement"
+    ],
+    "previews": {
+      "landscape": "cta-event-promo_poster.jpg"
+    },
+    "category": "event-promos",
+    "duration_s": 5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "event_title",
+        "type": "string",
+        "label": "Event Title",
+        "default": "LIVE PRODUCT LAUNCH"
+      },
+      {
+        "id": "date_time",
+        "type": "string",
+        "label": "Date & Time",
+        "default": "Friday @ 5:00 PM EST"
+      },
+      {
+        "id": "host",
+        "type": "string",
+        "label": "Host Details",
+        "default": "Hosted by Tez Studio"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Neon Color",
+        "default": "#9146FF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "cta-event-promo_preview.mp4",
+    "sha256": "5f49ca8ab77b3b28ab799976bf358e1a73b9bc7d2590b27dca69b99f73715ed3"
+  },
+  {
+    "id": "a1b2c3d4-0059-4000-8000-000000000059",
+    "title": "Broadcast Meteorologist Weather Card",
+    "description": "Modern broadcast weather forecast card with city tag, current temperature, condition icon, and high/low range.",
+    "file": "news-weather-forecast.tgx",
+    "tags": [
+      "news",
+      "weather",
+      "forecast",
+      "meteorology",
+      "temperature",
+      "broadcast",
+      "tv"
+    ],
+    "previews": {
+      "landscape": "news-weather-forecast_poster.jpg"
+    },
+    "category": "tv-news-broadcast",
+    "duration_s": 7,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "city",
+        "type": "string",
+        "label": "City / Region",
+        "default": "METRO AREA"
+      },
+      {
+        "id": "current_temp",
+        "type": "string",
+        "label": "Current Temp",
+        "default": "74°"
+      },
+      {
+        "id": "condition_text",
+        "type": "string",
+        "label": "Condition",
+        "default": "Partly Cloudy"
+      },
+      {
+        "id": "high_temp",
+        "type": "string",
+        "label": "High Temp",
+        "default": "H: 78°"
+      },
+      {
+        "id": "low_temp",
+        "type": "string",
+        "label": "Low Temp",
+        "default": "L: 58°"
+      },
+      {
+        "id": "forecast_summary",
+        "type": "string",
+        "label": "Outlook Summary",
+        "default": "Afternoon clearing with light coastal breeze"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Accent Color",
+        "default": "#38BDF8"
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Panel Fill",
+        "default": "#0F172A"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "news-weather-forecast_preview.mp4",
+    "sha256": "bac5e1ab183e8c5a29054c3b1df4fe1427cd790da86c8509445ba41cd68e22c7"
+  },
+  {
+    "id": "a1b2c3d4-0060-4000-8000-000000000060",
+    "title": "Live Sports Final Score Matchup Bug",
+    "description": "Broadcast sports matchup card with opposing team banners, split team colors, score counters, and game status badge.",
+    "file": "news-sports-scorecard.tgx",
+    "tags": [
+      "news",
+      "sports",
+      "scorecard",
+      "matchup",
+      "game",
+      "broadcast",
+      "league"
+    ],
+    "previews": {
+      "landscape": "news-sports-scorecard_poster.jpg"
+    },
+    "category": "tv-news-broadcast",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "league_title",
+        "type": "string",
+        "label": "League / Event",
+        "default": "CHAMPIONSHIP SERIES"
+      },
+      {
+        "id": "team_a_name",
+        "type": "string",
+        "label": "Team A Name",
+        "default": "WILDCATS"
+      },
+      {
+        "id": "team_a_score",
+        "type": "string",
+        "label": "Team A Score",
+        "default": "98"
+      },
+      {
+        "id": "team_a_color",
+        "type": "color",
+        "label": "Team A Accent",
+        "default": "#2563EB"
+      },
+      {
+        "id": "team_b_name",
+        "type": "string",
+        "label": "Team B Name",
+        "default": "TITANS"
+      },
+      {
+        "id": "team_b_score",
+        "type": "string",
+        "label": "Team B Score",
+        "default": "94"
+      },
+      {
+        "id": "team_b_color",
+        "type": "color",
+        "label": "Team B Accent",
+        "default": "#DC2626"
+      },
+      {
+        "id": "game_status",
+        "type": "string",
+        "label": "Game Status",
+        "default": "FINAL"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "news-sports-scorecard_preview.mp4",
+    "sha256": "4f42b71e4227ac83516b4eac8934a512a379856322f9feaf6676a4be08fde5d7"
+  },
+  {
+    "id": "a1b2c3d4-0061-4000-8000-000000000061",
+    "title": "Police Bulletin Wanted Suspect Alert",
+    "description": "High-urgency law enforcement alert banner with hazard styling, suspect name, charges breakdown, reward tag, and tip line.",
+    "file": "news-suspect-wanted.tgx",
+    "tags": [
+      "news",
+      "police",
+      "wanted",
+      "bulletin",
+      "alert",
+      "crime",
+      "broadcast"
+    ],
+    "previews": {
+      "landscape": "news-suspect-wanted_poster.jpg"
+    },
+    "category": "tv-news-broadcast",
+    "duration_s": 7.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "badge_text",
+        "type": "string",
+        "label": "Alert Badge",
+        "default": "WANTED BY POLICE"
+      },
+      {
+        "id": "suspect_name",
+        "type": "string",
+        "label": "Suspect Name",
+        "default": "JOHN DOE (ALIAS: GHOST)"
+      },
+      {
+        "id": "charges_text",
+        "type": "string",
+        "label": "Charges",
+        "default": "Armed Robbery • Last seen downtown metro corridor"
+      },
+      {
+        "id": "reward_text",
+        "type": "string",
+        "label": "Reward",
+        "default": "UP TO $10,000 REWARD"
+      },
+      {
+        "id": "tip_line",
+        "type": "string",
+        "label": "Tip Line",
+        "default": "CRIME STOPPERS: 1-800-222-TIPS"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Alert Color",
+        "default": "#EF4444"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "news-suspect-wanted_preview.mp4",
+    "sha256": "faa666cf6f4b5eb7c30e8efe6d453f0f60a8a3241aeed3e2496c6d377817591a"
+  },
+  {
+    "id": "a1b2c3d4-0062-4000-8000-000000000062",
+    "title": "In Custody Law Enforcement Status Card",
+    "description": "Official law enforcement confirmation card with suspect profile, arresting agency, and dynamic IN CUSTODY stamp slam.",
+    "file": "news-suspect-arrested.tgx",
+    "tags": [
+      "news",
+      "police",
+      "arrested",
+      "custody",
+      "stamp",
+      "law",
+      "bulletin"
+    ],
+    "previews": {
+      "landscape": "news-suspect-arrested_poster.jpg"
+    },
+    "category": "tv-news-broadcast",
+    "duration_s": 6.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "stamp_text",
+        "type": "string",
+        "label": "Status Stamp",
+        "default": "IN CUSTODY"
+      },
+      {
+        "id": "suspect_name",
+        "type": "string",
+        "label": "Suspect Name",
+        "default": "MARCUS ANTHONY VANCE"
+      },
+      {
+        "id": "agency_name",
+        "type": "string",
+        "label": "Agency Name",
+        "default": "METROPOLITAN POLICE DEPT"
+      },
+      {
+        "id": "case_details",
+        "type": "string",
+        "label": "Case Details",
+        "default": "Arrested without incident following joint task force raid"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Stamp Accent",
+        "default": "#10B981"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "news-suspect-arrested_preview.mp4",
+    "sha256": "fd227dfbfcdd1ebc4a0a83a1337987e13c833889f7da3650f71b8098214f1414"
+  },
+  {
+    "id": "a1b2c3d4-0063-4000-8000-000000000063",
+    "title": "AMBER Alert Emergency Broadcast Bulletin",
+    "description": "Emergency broadcast AMBER Alert bulletin with high-visibility safety stripes, physical metrics, vehicle info, and hotline.",
+    "file": "news-missing-child-alert.tgx",
+    "tags": [
+      "news",
+      "amber-alert",
+      "emergency",
+      "missing",
+      "bulletin",
+      "broadcast",
+      "public-safety"
+    ],
+    "previews": {
+      "landscape": "news-missing-child-alert_poster.jpg"
+    },
+    "category": "tv-news-broadcast",
+    "duration_s": 8,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "alert_header",
+        "type": "string",
+        "label": "Alert Type",
+        "default": "AMBER ALERT • MISSING CHILD"
+      },
+      {
+        "id": "child_name",
+        "type": "string",
+        "label": "Child Name",
+        "default": "EMILY ROSE WATSON"
+      },
+      {
+        "id": "age_gender",
+        "type": "string",
+        "label": "Physical Details",
+        "default": "Age: 7 • Female • 4 ft 1 in • 50 lbs"
+      },
+      {
+        "id": "last_seen",
+        "type": "string",
+        "label": "Last Seen",
+        "default": "Last seen 2:30 PM near Oakridge Park"
+      },
+      {
+        "id": "vehicle_info",
+        "type": "string",
+        "label": "Vehicle Info",
+        "default": "Suspect vehicle: Silver Sedan (Plate: 7XYZ89)"
+      },
+      {
+        "id": "hotline_number",
+        "type": "string",
+        "label": "Emergency Hotline",
+        "default": "IMMEDIATELY CALL 911 OR 1-800-THE-LOST"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Emergency Color",
+        "default": "#F59E0B"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "news-missing-child-alert_preview.mp4",
+    "sha256": "bb2f4260744793ca65f411759b06780ea7d1de66bdfec5b6b9c04331406b14a3"
+  },
+  {
+    "id": "a1b2c3d4-0064-4000-8000-000000000064",
+    "title": "Breaking News Lower Third with Live Ticker",
+    "description": "Network breaking news lower third banner with pulsing alert bug, dual-line headline card, dateline tag, and streaming crawl ticker.",
+    "file": "news-breaking-ticker.tgx",
+    "tags": [
+      "news",
+      "breaking",
+      "ticker",
+      "lower-third",
+      "crawl",
+      "broadcast",
+      "headline"
+    ],
+    "previews": {
+      "landscape": "news-breaking-ticker_poster.jpg"
+    },
+    "category": "tv-news-broadcast",
+    "duration_s": 8,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "alert_tag",
+        "type": "string",
+        "label": "Alert Tag",
+        "default": "BREAKING NEWS"
+      },
+      {
+        "id": "headline",
+        "type": "string",
+        "label": "Primary Headline",
+        "default": "SUPREME COURT ISSUES LANDMARK RULING"
+      },
+      {
+        "id": "subheadline",
+        "type": "string",
+        "label": "Developing Context",
+        "default": "Historic decision announced this morning with immediate nationwide impact"
+      },
+      {
+        "id": "ticker_text",
+        "type": "string",
+        "label": "Bottom Crawl",
+        "default": "LIVE UPDATES • MARKETS REACT WITH SURGE • DEVELOPING STORY AROUND THE REGION • PRESS CONFERENCE AT NOON"
+      },
+      {
+        "id": "location_tag",
+        "type": "string",
+        "label": "Dateline",
+        "default": "WASHINGTON"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Breaking Color",
+        "default": "#E11D48"
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Card Color",
+        "default": "#0F172A"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "news-breaking-ticker_preview.mp4",
+    "sha256": "2d59a125e9ac5194616a7370e8b5bc0730be3aa4065246dfaab2f45f1fac1087"
+  },
+  {
+    "id": "b2c3d4e5-0051-4000-8000-000000000051",
+    "title": "Cinematic Flare Lower Third",
+    "description": "Ultra-thin optical flare tracking line with slow letter-spacing typography expansion.",
+    "file": "lower-third-cinematic-flare.tgx",
+    "tags": [
+      "lower-third",
+      "cinematic",
+      "documentary",
+      "flare",
+      "film",
+      "optical",
+      "letterbox"
+    ],
+    "previews": {
+      "landscape": "lower-third-cinematic-flare_poster.jpg"
+    },
+    "category": "documentary-cinematic",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Subject Name",
+        "default": "DR. ELEANOR VANCE"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Role/Description",
+        "default": "Lead Astrophysicist, Horizon Project"
+      },
+      {
+        "id": "flare_color",
+        "type": "color",
+        "label": "Flare & Line Tint",
+        "default": "#F59E0B"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Typography Color",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "lower-third-cinematic-flare_preview.mp4",
+    "sha256": "3e28022e3aa9a474c862e50dd3e2d518e68cce9af7b7ca80566d59a43b800f34"
+  },
+  {
+    "id": "b2c3d4e5-0052-4000-8000-000000000052",
+    "title": "Frosted Edge Lower Third",
+    "description": "Deep frosted glass plate with traveling neon perimeter edge-light illumination.",
+    "file": "lower-third-frosted-edge.tgx",
+    "tags": [
+      "lower-third",
+      "frosted",
+      "edge",
+      "glass",
+      "hbo",
+      "apple",
+      "minimalist",
+      "clean"
+    ],
+    "previews": {
+      "landscape": "lower-third-frosted-edge_poster.jpg"
+    },
+    "category": "documentary-cinematic",
+    "duration_s": 5.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Name",
+        "default": "Marcus Thorne"
+      },
+      {
+        "id": "subtitle",
+        "type": "string",
+        "label": "Title",
+        "default": "Executive Producer"
+      },
+      {
+        "id": "glass_tint",
+        "type": "color",
+        "label": "Glass Tint Color",
+        "default": "#0F172A"
+      },
+      {
+        "id": "edge_light",
+        "type": "color",
+        "label": "Edge Light Color",
+        "default": "#38BDF8"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "lower-third-frosted-edge_preview.mp4",
+    "sha256": "ea6df43673c1e86239953533b8a7760afb469e441e8e7c7654495f8957ac4dc2"
+  },
+  {
+    "id": "b2c3d4e5-0053-4000-8000-000000000053",
+    "title": "Prestigious Film Award Laurel Wreath",
+    "description": "Metallic gold laurel wreath drawing upward with centered film festival award credits.",
+    "file": "award-laurel-wreath.tgx",
+    "tags": [
+      "award",
+      "laurel",
+      "festival",
+      "film",
+      "cinema",
+      "prestigious",
+      "selection",
+      "winner"
+    ],
+    "previews": {
+      "landscape": "award-laurel-wreath_poster.jpg"
+    },
+    "category": "documentary-cinematic",
+    "duration_s": 7,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "festival_name",
+        "type": "string",
+        "label": "Festival / Organization",
+        "default": "OFFICIAL SELECTION"
+      },
+      {
+        "id": "award_category",
+        "type": "string",
+        "label": "Award Category",
+        "default": "Best Documentary Feature"
+      },
+      {
+        "id": "year",
+        "type": "string",
+        "label": "Year",
+        "default": "2026"
+      },
+      {
+        "id": "laurel_color",
+        "type": "color",
+        "label": "Laurel Foil Color",
+        "default": "#D97706"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "award-laurel-wreath_preview.mp4",
+    "sha256": "9a748e1549582d6286327933bc3e6b934b722da721c1ef2357e997b4c321923f"
+  },
+  {
+    "id": "b2c3d4e5-0054-4000-8000-000000000054",
+    "title": "Feature Film Cinematic Outro Credits",
+    "description": "Sub-pixel smoothed continuous vertical crawl for two-column motion picture end credits.",
+    "file": "title-cinematic-credits.tgx",
+    "tags": [
+      "credits",
+      "crawl",
+      "outro",
+      "cinematic",
+      "film",
+      "end-credits",
+      "production"
+    ],
+    "previews": {
+      "landscape": "title-cinematic-credits_poster.jpg"
+    },
+    "category": "documentary-cinematic",
+    "duration_s": 15,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "credit_1_role",
+        "type": "string",
+        "label": "Role 1",
+        "default": "Directed By"
+      },
+      {
+        "id": "credit_1_name",
+        "type": "string",
+        "label": "Name 1",
+        "default": "Jane Doe"
+      },
+      {
+        "id": "credit_2_role",
+        "type": "string",
+        "label": "Role 2",
+        "default": "Produced By"
+      },
+      {
+        "id": "credit_2_name",
+        "type": "string",
+        "label": "Name 2",
+        "default": "John Smith"
+      },
+      {
+        "id": "credit_3_role",
+        "type": "string",
+        "label": "Role 3",
+        "default": "Director of Photography"
+      },
+      {
+        "id": "credit_3_name",
+        "type": "string",
+        "label": "Name 3",
+        "default": "Alice Wong"
+      },
+      {
+        "id": "text_color",
+        "type": "color",
+        "label": "Text Color",
+        "default": "#E2E8F0"
+      }
+    ],
+    "preview_video": "title-cinematic-credits_preview.mp4",
+    "sha256": "f92e03a27cdb504d5326050fd85ee82e061ff7977322d7a045b18fa211779c96"
+  },
+  {
+    "id": "b2c3d4e5-0055-4000-8000-000000000055",
+    "title": "Network TV Live Interview Split-Screen",
+    "description": "Broadcast dual video frame layout with glowing neon borders and anchor nameplates.",
+    "file": "split-screen-dual-box.tgx",
+    "tags": [
+      "interview",
+      "split-screen",
+      "podcast",
+      "broadcast",
+      "host",
+      "guest",
+      "dual-box",
+      "news"
+    ],
+    "previews": {
+      "landscape": "split-screen-dual-box_poster.jpg"
+    },
+    "category": "premium-podcast-talk-show",
+    "duration_s": 10,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "host_name",
+        "type": "string",
+        "label": "Host Name (Left)",
+        "default": "Alex Host"
+      },
+      {
+        "id": "guest_name",
+        "type": "string",
+        "label": "Guest Name (Right)",
+        "default": "Dr. Guest Speaker"
+      },
+      {
+        "id": "location_tag",
+        "type": "string",
+        "label": "Live Tag",
+        "default": "LIVE / NEW YORK"
+      },
+      {
+        "id": "border_color",
+        "type": "color",
+        "label": "Frame Border Color",
+        "default": "#3B82F6"
+      },
+      {
+        "id": "bg_color",
+        "type": "color",
+        "label": "Background Dark Shade",
+        "default": "#020617"
+      },
+      {
+        "id": "show_logo",
+        "type": "image",
+        "label": "Show Logo",
+        "default": ""
+      }
+    ],
+    "preview_video": "split-screen-dual-box_preview.mp4",
+    "sha256": "ebe5eb4bdaeea5d11b14f102aae3eb1076f48a8302ef73da8f8a15d210271447"
+  },
+  {
+    "id": "b2c3d4e5-0056-4000-8000-000000000056",
+    "title": "Podcast HUD Stream Video Overlay Frame",
+    "description": "Non-intrusive broadcast HUD border frame with pulsing on-air status and social handle bug.",
+    "file": "podcast-video-overlay-frame.tgx",
+    "tags": [
+      "podcast",
+      "frame",
+      "hud",
+      "overlay",
+      "on-air",
+      "border",
+      "streamer",
+      "broadcast"
+    ],
+    "previews": {
+      "landscape": "podcast-video-overlay-frame_poster.jpg"
+    },
+    "category": "premium-podcast-talk-show",
+    "duration_s": 8,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "episode_title",
+        "type": "string",
+        "label": "Episode Title",
+        "default": "EP 142: The Future of AI"
+      },
+      {
+        "id": "guest_handle",
+        "type": "string",
+        "label": "Guest Social Handle",
+        "default": "@GuestAI"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Brand Accent",
+        "default": "#EF4444"
+      },
+      {
+        "id": "show_watermark",
+        "type": "image",
+        "label": "Watermark Logo",
+        "default": ""
+      }
+    ],
+    "preview_video": "podcast-video-overlay-frame_preview.mp4",
+    "sha256": "c08d33f4373c145814401123ae1f78f50a9a464dc7b47d79d98aaa4aff2b2347"
+  },
+  {
+    "id": "b2c3d4e5-0057-4000-8000-000000000057",
+    "title": "Circular Audio Waveform Pulse Audiogram",
+    "description": "Dynamic 360-degree radial audio frequency equalizer with speaker avatar and quote display.",
+    "file": "audiogram-circular-pulse.tgx",
+    "tags": [
+      "audiogram",
+      "podcast",
+      "waveform",
+      "circular",
+      "equalizer",
+      "spotify",
+      "quote",
+      "audio"
+    ],
+    "previews": {
+      "landscape": "audiogram-circular-pulse_poster.jpg"
+    },
+    "category": "premium-podcast-talk-show",
+    "duration_s": 10,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "speaker_name",
+        "type": "string",
+        "label": "Speaker Name",
+        "default": "Naval Ravikant"
+      },
+      {
+        "id": "quote_text",
+        "type": "string",
+        "label": "Quote/Caption",
+        "default": "Play long-term games with long-term people."
+      },
+      {
+        "id": "wave_color",
+        "type": "color",
+        "label": "Waveform Color",
+        "default": "#1DB954"
+      },
+      {
+        "id": "avatar",
+        "type": "image",
+        "label": "Speaker Avatar",
+        "default": ""
+      },
+      {
+        "id": "avatar_zoom",
+        "type": "number",
+        "label": "Avatar Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      }
+    ],
+    "preview_video": "audiogram-circular-pulse_preview.mp4",
+    "sha256": "9f3fb9c58e95d0b24240ae7cf7897748ac0ca955fcc49f96275152e404673f27"
+  },
+  {
+    "id": "b2c3d4e5-0058-4000-8000-000000000058",
+    "title": "Neon Cyberpunk Landscape Audiogram",
+    "description": "Horizontal dense glowing frequency equalizer with mirrored ground reflection and caption text.",
+    "file": "audiogram-neon-landscape.tgx",
+    "tags": [
+      "audiogram",
+      "neon",
+      "synthwave",
+      "waveform",
+      "equalizer",
+      "landscape",
+      "cyberpunk",
+      "audio"
+    ],
+    "previews": {
+      "landscape": "audiogram-neon-landscape_poster.jpg"
+    },
+    "category": "premium-podcast-talk-show",
+    "duration_s": 10,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "caption",
+        "type": "string",
+        "label": "Caption Text",
+        "default": "We're entering a completely new paradigm of computing."
+      },
+      {
+        "id": "speaker",
+        "type": "string",
+        "label": "Speaker Label",
+        "default": "GUEST"
+      },
+      {
+        "id": "neon_color",
+        "type": "color",
+        "label": "Neon Glow Color",
+        "default": "#EC4899"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "audiogram-neon-landscape_preview.mp4",
+    "sha256": "50133a4e609cc59304d6461123f3fe762278aed143032ae39eea5da4a8c25c2f"
+  },
+  {
+    "id": "b2c3d4e5-0059-4000-8000-000000000059",
+    "title": "Isometric 3D Extruded Bar Chart",
+    "description": "High-end financial isometric projection chart with sequential rising columns and numeric roll-ups.",
+    "file": "chart-isometric-bar.tgx",
+    "tags": [
+      "chart",
+      "isometric",
+      "3d",
+      "data",
+      "finance",
+      "revenue",
+      "bloomberg",
+      "bars"
+    ],
+    "previews": {
+      "landscape": "chart-isometric-bar_poster.jpg"
+    },
+    "category": "advanced-data-financials",
+    "duration_s": 6.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Chart Title",
+        "default": "Q4 REVENUE GROWTH"
+      },
+      {
+        "id": "label_1",
+        "type": "string",
+        "label": "Label 1",
+        "default": "OCT"
+      },
+      {
+        "id": "val_1",
+        "type": "number",
+        "label": "Value 1",
+        "default": 45
+      },
+      {
+        "id": "label_2",
+        "type": "string",
+        "label": "Label 2",
+        "default": "NOV"
+      },
+      {
+        "id": "val_2",
+        "type": "number",
+        "label": "Value 2",
+        "default": 65
+      },
+      {
+        "id": "label_3",
+        "type": "string",
+        "label": "Label 3",
+        "default": "DEC"
+      },
+      {
+        "id": "val_3",
+        "type": "number",
+        "label": "Value 3",
+        "default": 92
+      },
+      {
+        "id": "bar_color",
+        "type": "color",
+        "label": "Primary Bar Color",
+        "default": "#06B6D4"
+      }
+    ],
+    "preview_video": "chart-isometric-bar_preview.mp4",
+    "sha256": "4bbff5d7c2cfd6a2e348309102cf1d7bb0d9dbed71f9cf4788674f0b45e9ab6a"
+  },
+  {
+    "id": "b2c3d4e5-0060-4000-8000-000000000060",
+    "title": "Holographic Laser Scanning Line Chart",
+    "description": "Futuristic sci-fi HUD line chart with laser scanner sweep and glowing data nodes.",
+    "file": "chart-holographic-line.tgx",
+    "tags": [
+      "chart",
+      "hud",
+      "line-chart",
+      "holographic",
+      "sci-fi",
+      "laser",
+      "scan",
+      "metrics"
+    ],
+    "previews": {
+      "landscape": "chart-holographic-line_poster.jpg"
+    },
+    "category": "advanced-data-financials",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "title",
+        "type": "string",
+        "label": "Graph Title",
+        "default": "USER RETENTION"
+      },
+      {
+        "id": "y_axis_label",
+        "type": "string",
+        "label": "Y-Axis Label",
+        "default": "Active Users (M)"
+      },
+      {
+        "id": "line_color",
+        "type": "color",
+        "label": "Line Glow Color",
+        "default": "#10B981"
+      },
+      {
+        "id": "bg_grid",
+        "type": "boolean",
+        "label": "Show Grid Lines",
+        "default": true
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      },
+      {
+        "id": "zoom",
+        "type": "number",
+        "label": "Zoom (%)",
+        "default": 100
+      }
+    ],
+    "preview_video": "chart-holographic-line_preview.mp4",
+    "sha256": "c5504d9800b2e595ce2dbfc2d7f86f2c0835d2433808de0cd5082cfc430309bc"
+  },
+  {
+    "id": "b2c3d4e5-0061-4000-8000-000000000061",
+    "title": "Financial Market Terminal HUD Panel",
+    "description": "Wall Street terminal side HUD with rolling digit ticker, sparkline delta, and market status indicator.",
+    "file": "financial-market-hud.tgx",
+    "tags": [
+      "financial",
+      "terminal",
+      "hud",
+      "market",
+      "stocks",
+      "ticker",
+      "wall-street",
+      "bloomberg"
+    ],
+    "previews": {
+      "landscape": "financial-market-hud_poster.jpg"
+    },
+    "category": "advanced-data-financials",
+    "duration_s": 8,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": true,
+    "uses_webgl": false,
+    "has_companion_audio": false,
+    "variables": [
+      {
+        "id": "ticker",
+        "type": "string",
+        "label": "Ticker Symbol",
+        "default": "AAPL"
+      },
+      {
+        "id": "price",
+        "type": "string",
+        "label": "Current Price",
+        "default": "185.92"
+      },
+      {
+        "id": "delta",
+        "type": "string",
+        "label": "Price Change",
+        "default": "+2.45 (+1.3%)"
+      },
+      {
+        "id": "status",
+        "type": "enum",
+        "label": "Market Status",
+        "default": "bullish"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Base Accent",
+        "default": "#0F172A"
+      },
+      {
+        "id": "position_x",
+        "type": "number",
+        "label": "Position X",
+        "default": 0
+      },
+      {
+        "id": "position_y",
+        "type": "number",
+        "label": "Position Y",
+        "default": 0
+      }
+    ],
+    "preview_video": "financial-market-hud_preview.mp4",
+    "sha256": "5a499f4d5a4b873c8032411aa7bde8caa64dde8fa505790bb653c0e44edc2ade"
+  },
+  {
+    "id": "b2c3d4e5-0062-4000-8000-000000000062",
+    "title": "High-Impact Sports Versus Card",
+    "description": "Heavy metallic slam sports matchup panel with angled team slates and centered VS badge.",
+    "file": "sports-versus-card.tgx",
+    "tags": [
+      "sports",
+      "matchup",
+      "versus",
+      "game",
+      "football",
+      "espn",
+      "teams",
+      "broadcast"
+    ],
+    "previews": {
+      "landscape": "sports-versus-card_poster.jpg"
+    },
+    "category": "live-broadcast-sports",
+    "duration_s": 6,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "team1_name",
+        "type": "string",
+        "label": "Team 1 Name",
+        "default": "EAGLES"
+      },
+      {
+        "id": "team1_color",
+        "type": "color",
+        "label": "Team 1 Color",
+        "default": "#004C54"
+      },
+      {
+        "id": "team2_name",
+        "type": "string",
+        "label": "Team 2 Name",
+        "default": "COWBOYS"
+      },
+      {
+        "id": "team2_color",
+        "type": "color",
+        "label": "Team 2 Color",
+        "default": "#003594"
+      },
+      {
+        "id": "match_info",
+        "type": "string",
+        "label": "Match Details",
+        "default": "SUNDAY NIGHT LIVE"
+      },
+      {
+        "id": "team1_logo",
+        "type": "image",
+        "label": "Team 1 Logo",
+        "default": ""
+      },
+      {
+        "id": "team2_logo",
+        "type": "image",
+        "label": "Team 2 Logo",
+        "default": ""
+      }
+    ],
+    "preview_video": "sports-versus-card_preview.mp4",
+    "sha256": "7bbb68c96cb4eca60360ab95034841ef11ce18a809c0a36a2694dc0bfecfcf33"
+  },
+  {
+    "id": "b2c3d4e5-0063-4000-8000-000000000063",
+    "title": "Full-Screen Broadcast Instant Replay Wipe",
+    "description": "Rapid triple-tier polygon sweep transition for action cuts with centered instant replay graphic.",
+    "file": "wipe-sports-replay.tgx",
+    "tags": [
+      "wipe",
+      "transition",
+      "sports",
+      "replay",
+      "broadcast",
+      "action",
+      "cut",
+      "sweep"
+    ],
+    "previews": {
+      "landscape": "wipe-sports-replay_poster.jpg"
+    },
+    "category": "live-broadcast-sports",
+    "duration_s": 2.5,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "wipe_text",
+        "type": "string",
+        "label": "Wipe Text",
+        "default": "INSTANT REPLAY"
+      },
+      {
+        "id": "color_1",
+        "type": "color",
+        "label": "Sweep Color 1",
+        "default": "#FFFFFF"
+      },
+      {
+        "id": "color_2",
+        "type": "color",
+        "label": "Sweep Color 2",
+        "default": "#DC2626"
+      },
+      {
+        "id": "color_3",
+        "type": "color",
+        "label": "Sweep Color 3",
+        "default": "#0F172A"
+      }
+    ],
+    "preview_video": "wipe-sports-replay_preview.mp4",
+    "sha256": "a5ab56fa32d35a502d51f6a33c7022ba0ac9131d6fb368048252385e7678e6ea"
+  },
+  {
+    "id": "b2c3d4e5-0064-4000-8000-000000000064",
+    "title": "Esports Player Trading Card Profile",
+    "description": "Trading card overlay with hero player photo, position tag, and 3-stat sequential lock-in.",
+    "file": "sports-player-profile.tgx",
+    "tags": [
+      "player",
+      "profile",
+      "card",
+      "esports",
+      "stats",
+      "athlete",
+      "roster",
+      "trading-card"
+    ],
+    "previews": {
+      "landscape": "sports-player-profile_poster.jpg"
+    },
+    "category": "live-broadcast-sports",
+    "duration_s": 7,
+    "aspects": [
+      "16x9",
+      "9x16",
+      "1x1",
+      "4x5"
+    ],
+    "loopable": false,
+    "uses_webgl": false,
+    "has_companion_audio": true,
+    "variables": [
+      {
+        "id": "player_name",
+        "type": "string",
+        "label": "Player Name",
+        "default": "FAKER"
+      },
+      {
+        "id": "player_number",
+        "type": "string",
+        "label": "Player Number/Role",
+        "default": "MID LANE"
+      },
+      {
+        "id": "stat_1_label",
+        "type": "string",
+        "label": "Stat 1 Label",
+        "default": "KDA"
+      },
+      {
+        "id": "stat_1_val",
+        "type": "string",
+        "label": "Stat 1 Value",
+        "default": "4.2"
+      },
+      {
+        "id": "stat_2_label",
+        "type": "string",
+        "label": "Stat 2 Label",
+        "default": "GOLD/M"
+      },
+      {
+        "id": "stat_2_val",
+        "type": "string",
+        "label": "Stat 2 Value",
+        "default": "420"
+      },
+      {
+        "id": "stat_3_label",
+        "type": "string",
+        "label": "Stat 3 Label",
+        "default": "WR%"
+      },
+      {
+        "id": "stat_3_val",
+        "type": "string",
+        "label": "Stat 3 Value",
+        "default": "68%"
+      },
+      {
+        "id": "accent",
+        "type": "color",
+        "label": "Team Accent Color",
+        "default": "#E11D48"
+      },
+      {
+        "id": "player_photo",
+        "type": "image",
+        "label": "Player Cutout Photo",
+        "default": ""
+      },
+      {
+        "id": "player_zoom",
+        "type": "number",
+        "label": "Photo Zoom (%)",
+        "default": 100
+      },
+      {
+        "id": "player_pos_x",
+        "type": "number",
+        "label": "Photo Pos X",
+        "default": 0
+      },
+      {
+        "id": "player_pos_y",
+        "type": "number",
+        "label": "Photo Pos Y",
+        "default": 0
+      }
+    ],
+    "preview_video": "sports-player-profile_preview.mp4",
+    "sha256": "db262e2ccc3e3f015ef898d9cc74b198d25fef09c815b59d2e40cd9d71af1373"
+  }
+]
