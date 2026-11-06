@@ -1006,5 +1006,214 @@
       "daylight-portrait": "58b50e01-b7b1-42df-a2c5-5ebb2110de55_daylight-portrait.jpg",
       "night-neon": "58b50e01-b7b1-42df-a2c5-5ebb2110de55_night-neon.jpg"
     }
+  },
+  {
+    "id": "69833ef0-e1fd-4378-8c97-2479fafb4d5f",
+    "title": "Apple Log to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in Apple Log (Rec.2020). Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "69833ef0-e1fd-4378-8c97-2479fafb4d5f.cube",
+    "previews": {
+      "daylight-portrait": "69833ef0-e1fd-4378-8c97-2479fafb4d5f_daylight-portrait.jpg",
+      "landscape": "69833ef0-e1fd-4378-8c97-2479fafb4d5f_landscape.jpg",
+      "night-neon": "69833ef0-e1fd-4378-8c97-2479fafb4d5f_night-neon.jpg"
+    }
+  },
+  {
+    "id": "1499dc61-0da0-4fb4-ba44-d6d7f4bbc3ae",
+    "title": "D-Log to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in DJI D-Log (D-Gamut). Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "1499dc61-0da0-4fb4-ba44-d6d7f4bbc3ae.cube",
+    "previews": {
+      "daylight-portrait": "1499dc61-0da0-4fb4-ba44-d6d7f4bbc3ae_daylight-portrait.jpg",
+      "landscape": "1499dc61-0da0-4fb4-ba44-d6d7f4bbc3ae_landscape.jpg",
+      "night-neon": "1499dc61-0da0-4fb4-ba44-d6d7f4bbc3ae_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a1c7d4ec-bb2c-4505-bd2d-a6f3dcce89d1",
+    "title": "S-Log3 S-Gamut3 to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in Sony S-Log3 with S-Gamut3. Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "a1c7d4ec-bb2c-4505-bd2d-a6f3dcce89d1.cube",
+    "previews": {
+      "daylight-portrait": "a1c7d4ec-bb2c-4505-bd2d-a6f3dcce89d1_daylight-portrait.jpg",
+      "landscape": "a1c7d4ec-bb2c-4505-bd2d-a6f3dcce89d1_landscape.jpg",
+      "night-neon": "a1c7d4ec-bb2c-4505-bd2d-a6f3dcce89d1_night-neon.jpg"
+    }
+  },
+  {
+    "id": "69dd02e4-a635-45d6-8ae1-61578b7c295f",
+    "title": "S-Log3 S-Gamut3.Cine to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in Sony S-Log3 with S-Gamut3.Cine. Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "69dd02e4-a635-45d6-8ae1-61578b7c295f.cube",
+    "previews": {
+      "daylight-portrait": "69dd02e4-a635-45d6-8ae1-61578b7c295f_daylight-portrait.jpg",
+      "landscape": "69dd02e4-a635-45d6-8ae1-61578b7c295f_landscape.jpg",
+      "night-neon": "69dd02e4-a635-45d6-8ae1-61578b7c295f_night-neon.jpg"
+    }
+  },
+  {
+    "id": "794ff9df-0428-4e48-80f3-adc6a1e22c3e",
+    "title": "V-Log to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in Panasonic V-Log (V-Gamut). Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "794ff9df-0428-4e48-80f3-adc6a1e22c3e.cube",
+    "previews": {
+      "daylight-portrait": "794ff9df-0428-4e48-80f3-adc6a1e22c3e_daylight-portrait.jpg",
+      "landscape": "794ff9df-0428-4e48-80f3-adc6a1e22c3e_landscape.jpg",
+      "night-neon": "794ff9df-0428-4e48-80f3-adc6a1e22c3e_night-neon.jpg"
+    }
+  },
+  {
+    "id": "74a80ca0-f2a3-4b11-9423-99189b6d8e07",
+    "title": "C-Log2 to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in Canon Log 2 (Cinema Gamut). Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "74a80ca0-f2a3-4b11-9423-99189b6d8e07.cube",
+    "previews": {
+      "daylight-portrait": "74a80ca0-f2a3-4b11-9423-99189b6d8e07_daylight-portrait.jpg",
+      "landscape": "74a80ca0-f2a3-4b11-9423-99189b6d8e07_landscape.jpg",
+      "night-neon": "74a80ca0-f2a3-4b11-9423-99189b6d8e07_night-neon.jpg"
+    }
+  },
+  {
+    "id": "6af0c0fd-9d59-44e9-9bd3-0bef12ce07ae",
+    "title": "C-Log3 to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in Canon Log 3 (Cinema Gamut). Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "6af0c0fd-9d59-44e9-9bd3-0bef12ce07ae.cube",
+    "previews": {
+      "daylight-portrait": "6af0c0fd-9d59-44e9-9bd3-0bef12ce07ae_daylight-portrait.jpg",
+      "landscape": "6af0c0fd-9d59-44e9-9bd3-0bef12ce07ae_landscape.jpg",
+      "night-neon": "6af0c0fd-9d59-44e9-9bd3-0bef12ce07ae_night-neon.jpg"
+    }
+  },
+  {
+    "id": "811cf3dd-ce80-4625-b05c-8213e7929b6d",
+    "title": "LogC3 to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in ARRI LogC3 (Wide Gamut 3). Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "811cf3dd-ce80-4625-b05c-8213e7929b6d.cube",
+    "previews": {
+      "daylight-portrait": "811cf3dd-ce80-4625-b05c-8213e7929b6d_daylight-portrait.jpg",
+      "landscape": "811cf3dd-ce80-4625-b05c-8213e7929b6d_landscape.jpg",
+      "night-neon": "811cf3dd-ce80-4625-b05c-8213e7929b6d_night-neon.jpg"
+    }
+  },
+  {
+    "id": "c41b6dbb-d791-4373-8d25-24d351a23d88",
+    "title": "LogC4 to Rec.709",
+    "description": "Technical conversion LUT for footage recorded in ARRI LogC4 (Wide Gamut 4). Apply to log-encoded clips before any creative grade. The scene previews show it on standard SDR photos, where it will look washed out — that is expected.",
+    "file": "c41b6dbb-d791-4373-8d25-24d351a23d88.cube",
+    "previews": {
+      "daylight-portrait": "c41b6dbb-d791-4373-8d25-24d351a23d88_daylight-portrait.jpg",
+      "landscape": "c41b6dbb-d791-4373-8d25-24d351a23d88_landscape.jpg",
+      "night-neon": "c41b6dbb-d791-4373-8d25-24d351a23d88_night-neon.jpg"
+    }
+  },
+  {
+    "id": "5cae5023-9c03-45b2-814a-042b32c5f0db",
+    "title": "Teal & Orange",
+    "description": "A stylised cinematic LUT that pushes shadows toward teal and skin tones toward warm orange. The classic blockbuster palette for punchy, high-separation grades.",
+    "file": "5cae5023-9c03-45b2-814a-042b32c5f0db.cube",
+    "previews": {
+      "daylight-portrait": "5cae5023-9c03-45b2-814a-042b32c5f0db_daylight-portrait.jpg",
+      "landscape": "5cae5023-9c03-45b2-814a-042b32c5f0db_landscape.jpg",
+      "night-neon": "5cae5023-9c03-45b2-814a-042b32c5f0db_night-neon.jpg"
+    }
+  },
+  {
+    "id": "949e6b66-2978-453e-a3d1-bbba3edb07ca",
+    "title": "Warm Film",
+    "description": "A film-inspired LUT that wraps the image in a gentle warm cast with soft, filmic contrast. Suits golden-hour shoots, portraits and lifestyle footage.",
+    "file": "949e6b66-2978-453e-a3d1-bbba3edb07ca.cube",
+    "previews": {
+      "daylight-portrait": "949e6b66-2978-453e-a3d1-bbba3edb07ca_daylight-portrait.jpg",
+      "landscape": "949e6b66-2978-453e-a3d1-bbba3edb07ca_landscape.jpg",
+      "night-neon": "949e6b66-2978-453e-a3d1-bbba3edb07ca_night-neon.jpg"
+    }
+  },
+  {
+    "id": "a55c048d-72d0-4b55-af69-182dec941973",
+    "title": "Cool Blue",
+    "description": "A cool-toned LUT that shifts the palette toward clean blues and cyans while keeping contrast tight. Works well for night, winter and tech-flavoured scenes.",
+    "file": "a55c048d-72d0-4b55-af69-182dec941973.cube",
+    "previews": {
+      "daylight-portrait": "a55c048d-72d0-4b55-af69-182dec941973_daylight-portrait.jpg",
+      "landscape": "a55c048d-72d0-4b55-af69-182dec941973_landscape.jpg",
+      "night-neon": "a55c048d-72d0-4b55-af69-182dec941973_night-neon.jpg"
+    }
+  },
+  {
+    "id": "fa201e41-36f1-4c0b-8f6a-da1a8ad315c9",
+    "title": "Bleach Bypass",
+    "description": "A high-contrast, desaturated look inspired by the bleach-bypass film process. Gritty, metallic tones for dramatic or action-driven footage.",
+    "file": "fa201e41-36f1-4c0b-8f6a-da1a8ad315c9.cube",
+    "previews": {
+      "daylight-portrait": "fa201e41-36f1-4c0b-8f6a-da1a8ad315c9_daylight-portrait.jpg",
+      "landscape": "fa201e41-36f1-4c0b-8f6a-da1a8ad315c9_landscape.jpg",
+      "night-neon": "fa201e41-36f1-4c0b-8f6a-da1a8ad315c9_night-neon.jpg"
+    }
+  },
+  {
+    "id": "8dc190f4-f1a4-4dbb-9f5d-0c3c93b510f8",
+    "title": "Faded Matte",
+    "description": "A soft matte LUT with lifted blacks and gentle desaturation. Gives a washed, vintage feel suited to nostalgic or editorial content.",
+    "file": "8dc190f4-f1a4-4dbb-9f5d-0c3c93b510f8.cube",
+    "previews": {
+      "daylight-portrait": "8dc190f4-f1a4-4dbb-9f5d-0c3c93b510f8_daylight-portrait.jpg",
+      "landscape": "8dc190f4-f1a4-4dbb-9f5d-0c3c93b510f8_landscape.jpg",
+      "night-neon": "8dc190f4-f1a4-4dbb-9f5d-0c3c93b510f8_night-neon.jpg"
+    }
+  },
+  {
+    "id": "22ee18bf-9572-47af-9a47-5238ae1ca239",
+    "title": "Monochrome",
+    "description": "A clean black-and-white conversion with balanced contrast. Turns colour footage into crisp monochrome for timeless, graphic looks.",
+    "file": "22ee18bf-9572-47af-9a47-5238ae1ca239.cube",
+    "previews": {
+      "daylight-portrait": "22ee18bf-9572-47af-9a47-5238ae1ca239_daylight-portrait.jpg",
+      "landscape": "22ee18bf-9572-47af-9a47-5238ae1ca239_landscape.jpg",
+      "night-neon": "22ee18bf-9572-47af-9a47-5238ae1ca239_night-neon.jpg"
+    }
+  },
+  {
+    "id": "77a5c9f5-ee8b-4023-9ddb-a347f9ed19a2",
+    "title": "Golden Hour",
+    "description": "A warm, glowing LUT that mimics late-afternoon sun — golden highlights and soft shadow rolloff. Ideal for outdoor scenes that need extra warmth.",
+    "file": "77a5c9f5-ee8b-4023-9ddb-a347f9ed19a2.cube",
+    "previews": {
+      "daylight-portrait": "77a5c9f5-ee8b-4023-9ddb-a347f9ed19a2_daylight-portrait.jpg",
+      "landscape": "77a5c9f5-ee8b-4023-9ddb-a347f9ed19a2_landscape.jpg",
+      "night-neon": "77a5c9f5-ee8b-4023-9ddb-a347f9ed19a2_night-neon.jpg"
+    }
+  },
+  {
+    "id": "9d2d9c7d-c92e-4782-bf8a-8ea8fb864379",
+    "title": "Night",
+    "description": "A moody low-key LUT that deepens shadows and cools the mid-tones for after-dark atmosphere. Good for urban night scenes and dramatic footage.",
+    "file": "9d2d9c7d-c92e-4782-bf8a-8ea8fb864379.cube",
+    "previews": {
+      "daylight-portrait": "9d2d9c7d-c92e-4782-bf8a-8ea8fb864379_daylight-portrait.jpg",
+      "landscape": "9d2d9c7d-c92e-4782-bf8a-8ea8fb864379_landscape.jpg",
+      "night-neon": "9d2d9c7d-c92e-4782-bf8a-8ea8fb864379_night-neon.jpg"
+    }
+  },
+  {
+    "id": "7ad8f1c8-21c8-4ccf-9865-4059fe2055d5",
+    "title": "Vivid HDR",
+    "description": "A vibrant tone-mapping LUT for HDR (HLG / BT.2020) footage: converts to Rec.709 with extra punch, saturation and highlight pop. Designed for HDR sources — on SDR images it will render dark and muted.",
+    "file": "7ad8f1c8-21c8-4ccf-9865-4059fe2055d5.cube",
+    "previews": {
+      "daylight-portrait": "7ad8f1c8-21c8-4ccf-9865-4059fe2055d5_daylight-portrait.jpg",
+      "landscape": "7ad8f1c8-21c8-4ccf-9865-4059fe2055d5_landscape.jpg",
+      "night-neon": "7ad8f1c8-21c8-4ccf-9865-4059fe2055d5_night-neon.jpg"
+    }
+  },
+  {
+    "id": "9e0b9824-da28-4bb7-aea9-019b6ddef752",
+    "title": "Vivid HDR Neutral",
+    "description": "A tone-mapping LUT for HDR (HLG / BT.2020) footage: the same conversion curve as Vivid HDR without the chroma-pop, for a more natural result. Designed for HDR sources — on SDR images it will render dark and muted.",
+    "file": "9e0b9824-da28-4bb7-aea9-019b6ddef752.cube",
+    "previews": {
+      "daylight-portrait": "9e0b9824-da28-4bb7-aea9-019b6ddef752_daylight-portrait.jpg",
+      "landscape": "9e0b9824-da28-4bb7-aea9-019b6ddef752_landscape.jpg",
+      "night-neon": "9e0b9824-da28-4bb7-aea9-019b6ddef752_night-neon.jpg"
+    }
   }
 ]
