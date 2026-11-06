@@ -1,20 +1,20 @@
 {
-  "schema_version": 1,
-  "content_tag": "v1.0.1",
-  "updated_at": "2026-09-27T00:00:00Z",
-  "types": {
-    "lut": {
-      "catalog": "lut/index.json",
-      "count": 92
+    "schema_version": 1,
+    "content_tag": "v1.0.1",
+    "updated_at": "2026-11-06T00:00:00Z",
+    "types": {
+        "lut": {
+            "catalog": "lut/index.json",
+            "count": 111
+        },
+        "graphic": {
+            "catalog": "graphic/index.json",
+            "count": 78
+        }
     },
-    "graphic": {
-      "catalog": "graphic/index.json",
-      "count": 78
-    }
-  },
-  "scenes": [
-    "scenes/daylight-portrait.jpg",
-    "scenes/landscape.jpg",
-    "scenes/night-neon.jpg"
-  ]
+    "scenes": [
+        "scenes/daylight-portrait.jpg",
+        "scenes/landscape.jpg",
+        "scenes/night-neon.jpg"
+    ]
 }
